@@ -1,32 +1,32 @@
-title: Sho Kawano
+title: Kanglin Connie Chen
 logo:  # you can add own logo.
 description:
 baseurl: ""
-url: https://sho-kawano.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url: https://kanglin-chen.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Author Settings
 author:
-  name: Sho Kawano
-  image: '/assets/img/about.jpg'
-  job: Welcome to my page!
+  name: Kanglin Chen
+  image: '/assets/img/me.jpg'
+  job: Welcome to my 'still under construction' page!
   bio: |+
     <br />
-    I'm currently a PhD Student in Statistics at UC Santa Cruz.
+    I'm currently a PhD Student at UF.
     <br />
     <br />
-    I am broadly interested in developing statistical tools for applications relevant to public policy.
-    I previously worked in clean energy with a brief stint at the CA State Government.
+    I am broadly interested in developing xxx tools for xxx applications relevant to public policy.
+    I previously worked in xxx with a brief stint at the CA State Government.
     I hope to use my skills to somehow benefit society.
     <br />
     <br />
     This site is a blend of professional/personal content.
     <br />
-  resume: https://drive.google.com/file/d/1Lr_RPlSyJhZZ1bWD8NxS_Ek1CBMjRqEL/view?usp=sharing
-  email: shkawano@ucsc.edu
-  github: https://github.com/sho-kawano
-  linkedin: https://www.linkedin.com/in/shokawano
-  last_update:  September, 2022
+  resume: https://kanglin-chen.github.io/assets/cv.pdf # https://drive.google.com/file/d/1Lr_RPlSyJhZZ1bWD8NxS_Ek1CBMjRqEL/view?usp=sharing
+  email: kanglinchen@ufl.edu
+  github: https://github.com/kanglin-chen
+  linkedin: https://www.linkedin.com/in/
+  last_update:  April, 2023
 
 
 

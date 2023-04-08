@@ -4,7 +4,7 @@ title: Teaching
 permalink: /teaching/
 image:
 ---
-
+<!--
 Teaching is arguably the most impactful part of my graduate training.
 I love teaching introductory statistics!
 
@@ -27,5 +27,5 @@ If you're a TA and would like access to any of my slides or materials, please co
 
 
 ***
-
+-->
 {% include image.html url="/assets/img/garden_oaxaca.jpeg" description="Jardín Etnobotánico de Oaxaca" %}
