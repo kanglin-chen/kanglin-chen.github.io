@@ -27,5 +27,8 @@ If you're a TA and would like access to any of my slides or materials, please co
 
 
 ***
--->
+
 {% include image.html url="/assets/img/garden_oaxaca.jpeg" description="Jardín Etnobotánico de Oaxaca" %}
+-->
+
+* GOV1008 Introduction to Geographic Information Systems (GIS)
