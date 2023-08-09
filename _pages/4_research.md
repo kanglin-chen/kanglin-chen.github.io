@@ -7,7 +7,7 @@ caption:
 ---
 
 
-> If I were advising a young person today... I would say "Take statistics, but remember that the great adventure of statistics is in gathering and using data to solve interesting an important real world problems".  - **Leo Breiman**
+<!--If I were advising a young person today... I would say "Take statistics, but remember that the great adventure of statistics is in gathering and using data to solve interesting an important real world problems".  - **Leo Breiman** -->
 <!--
 {% include image.html url="/assets/img/diamond_head.jpeg" description="View from Diamond Head, looking towards Hawaii Kai." %}
 
@@ -19,7 +19,7 @@ More specifically I'm interested in:
 * Official Statistics
 * Small Area Estimation
 * Analysis of Complex Surveys
-* Markov Random Field Models (spatial & temporal)
+* Markov `Random Field Models (spatial & temporal)
 * Bayesian Methods
 
 I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com).
@@ -28,4 +28,46 @@ I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://w
 
 Check out [Leo Breiman's Interview](https://projecteuclid.org/download/pdf_1/euclid.ss/1009213290).
 -->
-*Updated: April 2023*
+
+Research projects:
+
+* 2020-2023 Beyond the early disruption of COVID-19: Americans’ changes in travel and travel adaptations (Dissertation)
+
+* 2020-2023 Exploring the relationships between social vulnerability and Americans' travel adaptations beyond the early disruption of COVID-19 (Dissertation)
+
+* 2020-2023 Beyond the early disruption of COVID-19: the association between the built environment and travel adaptations by multi-unit housing residents in Manhattan and the Bronx, NY (Dissertation)
+
+* 2020-2022 Longitudinal and Spatial Analysis of Americans' Travel Distances Following COVID-19
+
+* 2021-2023 Immersive Virtual Reality versus 360 Panorama for People's Visual Evaluation of
+Geodesign Projects
+
+* 2020 Enhancing Resilience of Port St. Joe, FL
+
+* 2019 Quantifying Landscape Performance of Depot Park, Gainesville, FL
+
+* 2018 Evaluating the Implementation of Master Plans of National Parks in China (Thesis)
+
+* 2018 Resource Survey on Jingpo Lake National Park in Heilongjiang, China
+
+* 2015-2018 World Heritage Application to UNESCO: Ancient Tea Plantations of Jingmai Mountain in Pu’er,
+Yunnan, China
+
+
+Practial environmental projects:
+
+* 2021-2023 Signal Four Analytics for Crash Mapping and Geospatial Analysi
+
+* 2016-2017 Master Planning of Mount Heng National Park in Shanxi, China - 2016 Revision, 2001-2030
+
+* 2016 Detailed Planning of Fangshan National Park in Zhejiang, China - 2016-2030
+
+* 2016-2017 Master Planning of Mount Heng National Park in Shanxi, China - 2016 Revision, 2001-2030
+
+* 2015 Historic Preservation and Urban Regeneration Planning of Dingxing Old City in Hebei, China
+
+* 2014 Planning & Design of ZOJE Industrial Park Area in Hebei, China
+
+
+
+*Updated: August 2023*
