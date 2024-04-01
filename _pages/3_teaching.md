@@ -33,7 +33,7 @@ If you're a TA and would like access to any of my slides or materials, please co
 
 * GOV1013 GIS Analysis of Vulnerability - Instructor, Government Department, Harvard University, Spring 2024
 
-* GOV1009 Advanced Geographical Information Systems Workshop - Instructor, Government Department, Harvard University, Spring 2024
+* GOV1009 Advanced GIS - Instructor, Government Department, Harvard University, Spring 2024
 
 * GOV1008 Introduction to Geographic Information Systems - Instructor, Government Department, Harvard University, Fall 2023
 
