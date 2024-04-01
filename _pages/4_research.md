@@ -54,9 +54,9 @@ Geodesign Projects
 Yunnan, China
 
 
-Practial environmental projects:
+Practial projects:
 
-* 2021-2023 Signal Four Analytics for Crash Mapping and Geospatial Analysis
+* 2021-2023 Signal Four Analytics (Tool Development for Crash Mapping and Geospatial Analysis). Supported by the State of Florida
 
 * 2016-2017 Master Planning of Mount Heng National Park in Shanxi, China - 2016 Revision, 2001-2030
 
