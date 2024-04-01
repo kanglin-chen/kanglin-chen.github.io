@@ -56,7 +56,7 @@ Yunnan, China
 
 Practial environmental projects:
 
-* 2021-2023 Signal Four Analytics for Crash Mapping and Geospatial Analysi
+* 2021-2023 Signal Four Analytics for Crash Mapping and Geospatial Analysis
 
 * 2016-2017 Master Planning of Mount Heng National Park in Shanxi, China - 2016 Revision, 2001-2030
 
