@@ -31,13 +31,13 @@ If you're a TA and would like access to any of my slides or materials, please co
 {% include image.html url="/assets/img/garden_oaxaca.jpeg" description="Jardín Etnobotánico de Oaxaca" %}
 -->
 
-* GOV1008 Introduction to Geographic Information Systems - Instructor, Government Department, Harvard University, Fall 2023
+* GIS Analysis of Vulnerability - Instructor, Government Department, Harvard University, Spring 2024
 
 * GOV1009 Advanced Geographical Information Systems Workshop - Instructor, Government Department, Harvard University, Spring 2024
 
-* GIS Analysis of Vulnerability - Instructor, Government Department, Harvard University, Spring 2024
+* GOV1008 Introduction to Geographic Information Systems - Instructor, Government Department, Harvard University, Fall 2023
 
-* GIS Institute training program - Instructor, Center for Geographic Analysis (CGA), Harvard University, Winter 2024
+* GIS Institute training program - Instructor, Center for Geographic Analysis (CGA), Harvard University, Winter & Summer 2024
 
 * Urban Economy - Teaching Assistant, Urban and Regional Planning Department, University of Florida, Spring 2021
 
