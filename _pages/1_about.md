@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 image: /assets/img/Connie.jpg
-caption: xxx captions.
+caption: 
 ---
 
 Skip to [short professional summary](#prof).
