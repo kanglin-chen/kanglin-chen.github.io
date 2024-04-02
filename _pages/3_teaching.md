@@ -31,7 +31,7 @@ If you're a TA and would like access to any of my slides or materials, please co
 {% include image.html url="/assets/img/garden_oaxaca.jpeg" description="Jardín Etnobotánico de Oaxaca" %}
 -->
 
-* GOV1013 GIS Analysis of Vulnerability - Instructor, Government Department, Harvard University, Spring 2024
+* GOV1013 GIS Analysis of Hazard Vulnerability - Instructor, Government Department, Harvard University, Spring 2024
 
 * GOV1009 Advanced GIS - Instructor, Government Department, Harvard University, Spring 2024
 
