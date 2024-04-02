@@ -7,21 +7,21 @@ url: https://kanglin-chen.github.io # the base hostname & protocol for your site
 
 # Author Settings
 author:
-  name: Kanglin Chen
-  image: '/assets/img/me.jpg'
+  name: Connie (Kanglin) Chen
+  image: '/assets/img/Connie.jpg'
   job: Welcome to my 'still under construction' page!
   bio: |+
     <br />
-    I am a preceptor in geospatial analysis at Harvard University's Government Department and a faculty affiliate with the Center for Geographic Analysis (CGA). 
+    I am a preceptor in spatial analysis in the Government Department at Harvard University and an associate with Harvard's Center for Geographic Analysis (CGA). I teach introductory and advanced GIS, other spatial analysis-related courses, and a GIS training program.
     <br />
     <br />
-    I have a Ph.D. in Urban and Regional Planning from the University of Florida, an MS in Geography (Urban and Regional Planning) from Peking University, and a Bachelor's degree in Landscape Gardening from Beijing Forestry University. 
+    I have a Ph.D. in Urban and Regional Planning, an MS in Geography (Urban and Regional Planning), and a Bachelor's degree in Landscape Gardening. 
     <br />
-    I use spatial and statistical analysis, 3D geospatial modeling and visualization, data mining, and qualitative methods to conduct my research.
+    My research fields include GIScience, travel behavior, social vulnerability and resilience, and the built environment. My primary research methods include spatial and statistical analysis, 3D geospatial techniques, and data mining.
     <br />
-    My current research focuses on integrated vulnerability analysis, combining insights from natural, built, and social environments, along with people's activity-based resilience to hazards, disturbances, and urban design integrated with Virtual Reality technologies.
+    I am proficient in GIS software, R, and Python programming languages. I also have training in qualitative methods and urban and landscape design. 
     <br />
-    I teach introductory and advanced GIS courses as well as GIS training programs. I also have experience in teaching quantitative methods in urban planning and R programming language.
+    I have participated in environment-related research and practical projects in both the U.S. and China. 
     <br />
     I consider myself as a social-technological scholar.
 
