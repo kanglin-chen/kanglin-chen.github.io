@@ -31,7 +31,7 @@ Check out [Leo Breiman's Interview](https://projecteuclid.org/download/pdf_1/euc
 
 Research projects:
 
-* 2020-2023 Beyond the early disruption of COVID-19: Americans’ changes in travel and travel adaptations (Dissertation)
+* 2020-2023 Beyond the early disruption of COVID-19: Americans’ travel changes and adaptations (Dissertation)
 
 * 2020-2023 Exploring the relationships between social vulnerability and Americans' travel adaptations beyond the early disruption of COVID-19 (Dissertation)
 
@@ -48,21 +48,16 @@ Geodesign Projects
 
 * 2018 Evaluating the Implementation of Master Plans of National Parks in China (Thesis)
 
-* 2018 Resource Survey on Jingpo Lake National Park in Heilongjiang, China
-
-* 2015-2018 World Heritage Application to UNESCO: Ancient Tea Plantations of Jingmai Mountain in Pu’er,
-Yunnan, China
+* 2015-2018 Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er (Recognized as a World Heritage by UNESCO in 2023)
 
 
 Practial projects:
 
-* 2021-2023 Signal Four Analytics (Tool Development for Crash Mapping and Geospatial Analysis). Supported by the State of Florida
-
-* 2016-2017 Master Planning of Mount Heng National Park in Shanxi, China - 2016 Revision, 2001-2030
+* 2021-2023 Signal Four Analytics - Crash Mapping and Geospatial Analysis Tool Development. Supported by the State of Florida
 
 * 2016 Detailed Planning of Fangshan National Park in Zhejiang, China - 2016-2030
 
-* 2016-2017 Master Planning of Mount Heng National Park in Shanxi, China - 2016 Revision, 2001-2030
+* 2016-2017 Master Planning of Mount Heng (Hengshan) National Park in Shanxi, China - 2016 Revision, 2001-2030
 
 * 2015 Historic Preservation and Urban Regeneration Planning of Dingxing Old City in Hebei, China
 
