@@ -46,7 +46,7 @@ Geodesign Projects
 
 * 2019 Quantifying Landscape Performance of Depot Park, Gainesville, FL
 
-* 2018 Evaluating the Implementation of Master Plans of National Parks in China (Thesis)
+* 2018 Evaluating the Implementation of Master Planning of National Parks in China (Thesis)
 
 * 2015-2018 World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er (Recognized as a World Heritage in 2023)
 
