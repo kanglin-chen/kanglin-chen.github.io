@@ -53,7 +53,7 @@ Geodesign Projects
 
 Practial projects:
 
-* 2021-2023 Signal Four Analytics - Crash Mapping and Geospatial Analysis Tool Development. Supported by the State of Florida
+* 2021-2023 Signal Four Analytics - Crash Mapping and Geospatial Analysis Tool and System Development. Supported by the State of Florida
 
 * 2016 Detailed Planning of Fangshan National Park in Zhejiang, China - 2016-2030
 
