@@ -48,7 +48,7 @@ Geodesign Projects
 
 * 2018 Evaluating the Implementation of Master Plans of National Parks in China (Thesis)
 
-* 2015-2018 Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er (Recognized as a World Heritage by UNESCO in 2023)
+* 2015-2018 World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er (Recognized as a World Heritage in 2023)
 
 
 Practial projects:
