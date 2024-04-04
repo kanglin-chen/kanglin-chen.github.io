@@ -39,6 +39,8 @@ If you're a TA and would like access to any of my slides or materials, please co
 
 * GIS Institute training program - Instructor, Center for Geographic Analysis (CGA), Harvard University, Winter & Summer 2024
 
+* The Summer Training Workshop on Spatiotemporal Innovation - Teaching Assistant, Center for Geographic Analysis (CGA), Harvard University, Summer 2024
+
 * Urban Economy - Teaching Assistant, Urban and Regional Planning Department, University of Florida, Spring 2021
 
 * Quantitative Data Analysis for Planners - Teaching Assistant, Urban and Regional Planning Department, University of Florida, Fall 2020
