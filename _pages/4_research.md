@@ -51,7 +51,7 @@ Geodesign Projects
 * 2015-2018 World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er (Recognized as a World Heritage in 2023)
 
 
-Practial projects:
+Practical projects:
 
 * 2021-2023 Signal Four Analytics - Crash Mapping and Geospatial Analysis Tool and System Development. Supported by the State of Florida
 
