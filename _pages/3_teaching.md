@@ -18,15 +18,15 @@ If you're a TA and would like access to any of my slides or materials, please co
 <!-- {% include image.html url="/assets/img/e2.jpeg" description="TBA" %} -->
 
 <!--  to add link to text, do : [Link text Here](https://link-url-here.org) -->
-* GOV1013 GIS Analysis of Hazard Vulnerability - Instructor, Government Department, Harvard University, Spring 2024
+* [GOV1013: GIS Analysis of Hazard Vulnerability](https://gis.harvard.edu/event/gov-1013-student-class-project-presentations-gis-and-hazard-vulnerability) - Instructor, Government Department, Harvard University, Spring 2024
 
-* GOV1009 Advanced GIS - Instructor, Government Department, Harvard University, Spring 2024
+* [GOV1009: Advanced GIS](https://gis.harvard.edu/gov-1009-advanced-geographical-information-systems-workshop-4) - Instructor, Government Department, Harvard University, Spring 2024
 
-* GOV1008 Introduction to Geographic Information Systems - Instructor, Government Department, Harvard University, Fall 2023
+* [GOV1008: Introduction to Geographic Information Systems](https://gis.harvard.edu/gov-1008-introduction-geographic-information-systems-4) - Instructor, Government Department, Harvard University, Fall 2023
 
-* GIS Institute training program - Instructor, Center for Geographic Analysis (CGA), Harvard University, Winter & Summer 2024
+* [GIS Institute: Immersive Training for Spatial Research](https://gis.harvard.edu/gis-institute) - Instructor, Center for Geographic Analysis (CGA), Harvard University, Winter & Summer 2024
 
-* The Summer Training Workshop on Spatiotemporal Innovation - Teaching Assistant, Center for Geographic Analysis (CGA), Harvard University, Summer 2024
+* [The Summer Training Workshop on Spatiotemporal Innovation](https://projects.iq.harvard.edu/chinadatalab/event/summer-workshop-spatiotemporal-innovation-0) - Teaching Assistant, Center for Geographic Analysis (CGA), Harvard University, Summer 2024
 
 * Urban Economy - Teaching Assistant, Urban and Regional Planning Department, University of Florida, Spring 2021
 
