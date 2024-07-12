@@ -29,9 +29,9 @@ If you're a TA and would like access to any of my slides or materials, please co
 <!--  to add link to text, do : [Link text Here](https://link-url-here.org) -->
 * Harvard University, 2023 -- now
 
-    * [GOV1013: GIS Analysis of Hazard Vulnerability](https://gis.harvard.edu/event/gov-1013-student-class-project-presentations-gis-and-hazard-vulnerability) - Instructor, Government Department,  Spring 2024
+    * [GOV1013: GIS Analysis of Hazard Vulnerability](https://gis.harvard.edu/gov-1013-gis-analysis-hazard-vulnerability) - Instructor, Government Department,  Spring 2024 & 2025
 
-    * [GOV1009: Advanced GIS](https://gis.harvard.edu/gov-1009-advanced-geographical-information-systems-workshop-4) - Instructor, Government Department, Spring 2024
+    * [GOV1009: Advanced GIS](https://gis.harvard.edu/gov-1009-advanced-geographical-information-systems-workshop-4) - Instructor, Government Department, Spring 2024 & 2025
 
     * [GOV1008: Introduction to Geographic Information Systems](https://gis.harvard.edu/gov-1008-introduction-geographic-information-systems-4) - Instructor, Government Department, Fall 2023 & 2024
 
@@ -39,7 +39,7 @@ If you're a TA and would like access to any of my slides or materials, please co
 
     * [The Summer Training Workshop on Spatiotemporal Innovation](https://projects.iq.harvard.edu/chinadatalab/event/summer-workshop-spatiotemporal-innovation-0) - Teaching Assistant, Center for Geographic Analysis (CGA), Summer 2024
 
-* University of Florida, 2018 -- 2022
+* University of Florida, 2018 -- 2023
 
     * Urban Economy - Teaching Assistant, Urban and Regional Planning Department, Spring 2021
 
