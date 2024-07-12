@@ -9,8 +9,9 @@ url: https://kanglin-chen.github.io # the base hostname & protocol for your site
 author:
   name: Connie (Kanglin) Chen
   image: '/assets/img/Connie.jpg'
-  job: Welcome to my page!
+  job: Preceptor in Geospatial Analysis
   bio: |+
+    <font size="+1">
     <br />
     I am a preceptor in spatial analysis in the <a href="https://www.gov.harvard.edu/directory/kanglin-connie-chen/"> Government Department</a> 
     at Harvard University and an associate with <a href="https://gis.harvard.edu/"> Harvard's Center for Geographic Analysis (CGA)</a>. I teach introductory and advanced GIS, other spatial analysis-related courses, and a GIS training program.
@@ -30,6 +31,7 @@ author:
     <br />
     This site is a blend of professional/personal content.
     <br />
+    </font>
   resume: https://kanglin-chen.github.io/assets/cv.pdf # https://drive.google.com/file/d/1Lr_RPlSyJhZZ1bWD8NxS_Ek1CBMjRqEL/view?usp=sharing
   email: kanglinchen@fas.harvard.edu
   github: https://github.com/kanglin-chen
