@@ -57,4 +57,4 @@ Practical projects:
 
 
 
-*Updated: August 2023*
+*Updated: July 2024*

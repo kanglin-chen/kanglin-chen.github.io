@@ -7,32 +7,17 @@ url: https://kanglin-chen.github.io # the base hostname & protocol for your site
 
 # Author Settings
 author:
-  name: Connie (Kanglin) Chen
+  name: Connie (Kanglin) Chen, Ph.D., M.S.
   image: '/assets/img/Connie.jpg'
   job: Preceptor in Geospatial Analysis
   bio: |+
     <font size="+1">
     <br />
-    I am a preceptor in spatial analysis in the <a href="https://www.gov.harvard.edu/directory/kanglin-connie-chen/"> Government Department</a> 
-    at Harvard University and an associate with <a href="https://gis.harvard.edu/"> Harvard's Center for Geographic Analysis (CGA)</a>. I teach introductory and advanced GIS, other spatial analysis-related courses, and a GIS training program.
-    <br />
-    <br />
-    I have a Ph.D. in <a href="https://dcp.ufl.edu/urp/">Urban and Regional Planning</a>, an MS in Geography (Urban and Regional Planning), and a Bachelor's degree in Landscape Gardening. 
-    <br />
-    My research fields include GIScience, travel behavior, social vulnerability and resilience, and the built environment. My primary research methods include spatial and statistical analysis, 3D geospatial techniques, and data mining.
-    <br />
-    I am proficient in GIS software, R, and Python programming languages. I also have training in qualitative methods and urban and landscape design. 
-    <br />
-    I have participated in environment-related research and practical projects in both the U.S. and China. 
-    <br />
-    I consider myself as a social-technological scholar. 
-    <br />
-    <br />
-    <br />
-    This site is a blend of professional/personal content.
+    I am a preceptor (lecturer) in spatial analysis in the <a href="https://www.gov.harvard.edu/directory/kanglin-connie-chen/"> Government Department</a> 
+    at Harvard University and an associate with <a href="https://gis.harvard.edu/"> Harvard's Center for Geographic Analysis (CGA)</a>. I teach introductory and advanced GIS, other spatial analysis-related courses, and GIS training programs.
     <br />
     </font>
-  resume: https://kanglin-chen.github.io/assets/cv.pdf # https://drive.google.com/file/d/1Lr_RPlSyJhZZ1bWD8NxS_Ek1CBMjRqEL/view?usp=sharing
+  resume: https://kanglin-chen.github.io/assets/cv.pdf # https://drive.google.com/file/d/1L.....
   email: kanglinchen@fas.harvard.edu
   github: https://github.com/kanglin-chen
   linkedin: https://www.linkedin.com/in/kanglinchen/
@@ -48,7 +33,7 @@ author:
 #
 
 # Comment Section (Disqus)
-disqus-identifier: sho-personal # add your shortname for Disqus Comment. For example mr-brown
+#disqus-identifier: connie-personal # add your shortname for Disqus Comment. For example mr-brown
 
 
 # Google Analytics
