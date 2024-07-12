@@ -13,13 +13,13 @@ caption:
 
 <br />
 
-I am broadly interested in developing statistical tools for applications relevant to public policy and public health.
+I am broadly interested in ....
 More specifically I'm interested in:
 
 * Official Statistics
-* Small Area Estimation
+* GeoSpatial Analysis
 
-I am co-advised by [Zehang Li](https://zehangli.com) and [Paul Parker](https://www.paparkerstat.com). -->
+I am co-advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/) and [CQ](https://www.google.com). -->
 
 Research projects:
 
