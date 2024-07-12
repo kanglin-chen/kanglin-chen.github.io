@@ -24,7 +24,7 @@ If you're a TA and would like access to any of my slides or materials, please co
 
 
 <!-- to add image to this page, do as below -->
-{% include image.html url="/assets/img/Teaching.jpg" description="Fall 2023, student poster session" %}
+{% include image.html url="/assets/img/Teaching.jpg" description="Fall 2023, student poster session on spatial analysis" %}
 
 <!--  to add link to text, do : [Link text Here](https://link-url-here.org) -->
 * Harvard University, 2023 -- now
