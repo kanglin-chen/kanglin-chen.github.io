@@ -30,10 +30,14 @@ If you're a TA and would like access to any of my slides or materials, please co
 * Harvard University, 2023 -- now
 
     * [GOV1013: GIS Analysis of Hazard Vulnerability](https://gis.harvard.edu/gov-1013-gis-analysis-hazard-vulnerability) - Instructor, Government Department,  Spring 2024 & 2025
+    
+        * Student work case: [Samoa Community Vulnerability Index](https://storymaps.arcgis.com/stories/cfa5e7d7ca7e4298a7df78245034aa0b), by Jennifer Powley, May 2024
 
     * [GOV1009: Advanced GIS](https://gis.harvard.edu/gov-1009-advanced-geographical-information-systems-workshop-4) - Instructor, Government Department, Spring 2024 & 2025
 
     * [GOV1008: Introduction to Geographic Information Systems](https://gis.harvard.edu/gov-1008-introduction-geographic-information-systems-4) - Instructor, Government Department, Fall 2023 & 2024
+ 
+        * Student work case: [Extra-political Influences on COVID-19 Vaccination Coverage](https://storymaps.arcgis.com/stories/c4937fe055ed49229979fed984ec3894), by Aiden J. Taylor, December 2023
 
     * [GIS Institute: Immersive Training for Spatial Research](https://gis.harvard.edu/gis-institute) - Instructor, Center for Geographic Analysis (CGA), Winter & Summer 2024
 
