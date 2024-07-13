@@ -31,7 +31,8 @@ I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/
 
 * 2020-2023 Beyond the early disruption of COVID-19: the association between the built environment and travel adaptations by multi-unit housing residents in Manhattan and the Bronx, NY (Dissertation)  -->
 
-* 2020-2022 [Longitudinal and Spatial Analysis of Americans' Travel Distances Following COVID-19](https://www.sciencedirect.com/science/article/pii/S1361920922002401?via%3Dihub). [First-place Award in UF DCP's 2021 Research Syymposium](https://dcp.ufl.edu/news/2021symposiumstudentposterwinners/)
+* 2020-2022 [Longitudinal and Spatial Analysis of Americans' Travel Distances Following COVID-19](https://www.sciencedirect.com/science/article/pii/S1361920922002401?via%3Dihub).
+  [First-place Award in UF DCP's 2021 Research Symposium](https://dcp.ufl.edu/news/2021symposiumstudentposterwinners/)
 
 * 2021-2023 [Immersive Virtual Reality versus 360 Panorama for People's Visual Evaluation of Geodesign Projects](https://mediaspace.esri.com/media/t/1_tx8ijpki)
 
@@ -41,7 +42,7 @@ I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/
 
 * 2018 Evaluating the Implementation of Master Planning of National Parks in China (Master's Thesis)
 
-* 2015-2018 World Heritage Application to UNESCO: [Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er](https://whc.unesco.org/en/list/1665/) (Recognized in 2023 as the world's first tea-related World Heritage site) 
+* 2015-2018 [World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er](https://whc.unesco.org/en/list/1665/). Recognized in 2023 as the world's first tea-related World Heritage site
 
 
 *Practical projects*:
@@ -61,6 +62,6 @@ I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/
 *Design project*:
 
 * 2015 The regeneration planning of Dingxing Old City in Hebei, China & the conceptual design of the greenbelt surrounding the city.
-<br />[Bronze Award in China's Living Enviornment Design Competition](https://www.pkuplanning.com/html/pic/d/598.html), national-level award given by Tsinghua University and the Ministry of Education of China, sole awardee
+  [Bronze Award in China's Living Enviornment Design Competition](https://www.pkuplanning.com/html/pic/d/598.html), national-level award given by Tsinghua University and the Ministry of Education of China, sole awardee
 
 <!-- *Updated: July 2024* -->
