@@ -62,6 +62,6 @@ I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/
 *Design project*:
 
 * 2015 The regeneration planning of Dingxing Old City in Hebei, China & the conceptual design of the greenbelt surrounding the city.
-  [Bronze Award in China's Living Enviornment Design Competition](https://www.pkuplanning.com/html/pic/d/598.html), national-level award given by Tsinghua University and the Ministry of Education of China, sole awardee
+  [Bronze Award in China's Living Enviornment Design Competition](https://www.pkuplanning.com/html/pic/d/598.html), national-level award given by Tsinghua University and the Ministry of Education of China
 
 <!-- *Updated: July 2024* -->
