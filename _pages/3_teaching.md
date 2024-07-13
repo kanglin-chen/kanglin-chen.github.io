@@ -47,7 +47,7 @@ If you're a TA and would like access to any of my slides or materials, please co
    
             * [Street design, 3D visualization, VR, and GIS Animation](https://gis.harvard.edu/event/urban-street-design-3d-geospatial-modeling-gis-analysis-visualization-about-networks-and) - Harvard Graduate School of Design (GSD), Spring 2024
          
-            * [Hazard mapping \& public health](https://gis.harvard.edu/event/spatial-analysis-hazard-mapping-public-health) - Harvard T.H. Chan School of Public Health, Spring 2024
+            * [Hazard mapping and public health](https://gis.harvard.edu/event/spatial-analysis-hazard-mapping-public-health) - Harvard T.H. Chan School of Public Health, Spring 2024
           
             * [3D geospatial techniques and the trends of visualization](https://gis.harvard.edu/event/3d-geospatial-techniques-and-trends-visualization) - Harvard Graduate School of Design (GSD), Fall 2023
         
