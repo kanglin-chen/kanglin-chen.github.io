@@ -27,7 +27,7 @@ If you're a TA and would like access to any of my slides or materials, please co
 {% include image.html url="/assets/img/Teaching.jpg" description="Fall 2023, student poster session on spatial analysis" %}
 
 <!--  to add link to text, do : [Link text Here](https://link-url-here.org) -->
-* Harvard University, 2023 -- now
+* *Harvard University, 2023 -- now*
 
     * [GOV1013: GIS Analysis of Hazard Vulnerability](https://gis.harvard.edu/gov-1013-gis-analysis-hazard-vulnerability) - Instructor, Government Department,  Spring 2024 & 2025
     
@@ -43,7 +43,7 @@ If you're a TA and would like access to any of my slides or materials, please co
 
     * [The Summer Training Workshop on Spatiotemporal Innovation](https://projects.iq.harvard.edu/chinadatalab/event/summer-workshop-spatiotemporal-innovation-0) - Teaching Assistant, Center for Geographic Analysis (CGA), Summer 2024
 
-* University of Florida, 2018 -- 2023
+* *University of Florida, 2018 -- 2023*
 
     * Urban Economy - Teaching Assistant, Urban and Regional Planning Department, Spring 2021
 
@@ -53,6 +53,6 @@ If you're a TA and would like access to any of my slides or materials, please co
 
     * Advanced Landscape Architecture Studio - Under Supervised Teaching, Landscape Architecture Department, Fall 2019
 
-* Peking University, 2016
+* *Peking University, 2016*
 
     * National Park Planning and World Heritage Management - Teaching Assistant, College of Urban and Environmental Sciences, Spring 2016

@@ -23,7 +23,7 @@ I have participated in environment-related research and practical projects in bo
 I consider myself as an urban planner, a geographer, and a social-technological scholar. 
 <br />
 
-This site is a blend of professional/personal content.
+This site is a blend of professional & personal content.
 <br />
 
 <br />

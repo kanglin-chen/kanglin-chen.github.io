@@ -16,6 +16,8 @@ author:
     I am a preceptor (lecturer) in spatial analysis in the <a href="https://www.gov.harvard.edu/directory/kanglin-connie-chen/"> Government Department</a> 
     at Harvard University and an associate with <a href="https://gis.harvard.edu/"> Harvard's Center for Geographic Analysis (CGA)</a>. I teach introductory and advanced GIS, other spatial analysis-related courses, and GIS training programs.
     <br />
+    <br />
+    <a href="https://kanglin-chen.github.io/about/"> <u>Know more</u></a> 
     </font>
   resume: https://kanglin-chen.github.io/assets/cv.pdf # https://drive.google.com/file/d/1L.....
   email: kanglinchen@fas.harvard.edu
@@ -33,7 +35,7 @@ author:
 #
 
 # Comment Section (Disqus)
-#disqus-identifier: connie-personal # add your shortname for Disqus Comment. For example mr-brown
+disqus-identifier: conniechen # add your shortname for Disqus Comment. For example mr-brown
 
 
 # Google Analytics

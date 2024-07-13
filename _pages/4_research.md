@@ -21,7 +21,7 @@ More specifically I'm interested in:
 
 I am co-advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/) and [CQ](https://www.google.com). -->
 
-Research projects:
+*Research projects*:
 
 * 2020-2023 Beyond the early disruption of COVID-19: Americans’ travel changes and adaptations (Dissertation)
 
@@ -43,7 +43,7 @@ Geodesign Projects
 * 2015-2018 World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er (Recognized as a World Heritage in 2023)
 
 
-Practical projects:
+*Practical projects*:
 
 * 2021-2023 Signal Four Analytics - Crash Mapping and Geospatial Analysis Tool and System Development. Supported by the State of Florida
 
@@ -57,4 +57,4 @@ Practical projects:
 
 
 
-*Updated: July 2024*
+<!-- *Updated: July 2024* -->
