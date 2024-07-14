@@ -69,7 +69,7 @@ If you're a TA and would like access to any of my slides or materials, please co
          
             * Analyzing TripAdvisor reviews of urban parks - Landscape Architecture Department, Spring 2020
          
-            * Landscape Performance quantification: methods \& metrics - Landscape Architecture Department, Fall 2019
+            * Landscape Performance quantification: methods and metrics - Landscape Architecture Department, Fall 2019
 
 * *Peking University, 2016*
 
