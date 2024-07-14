@@ -2,10 +2,10 @@
 layout: page
 title: Research
 permalink: /research/
-image:
-caption:
+image: 
+caption: abc
 ---
-
+{% include image.html url="/assets/img/KC_geodesignsummit.png" description="2023 ESRI report" %}
 
 <!-- If I were advising a young person today... I would say "Take statistics, but remember that the great adventure of statistics is in gathering and using data to solve interesting an important real world problems".  - **Leo Breiman**
 
@@ -50,6 +50,7 @@ I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/
 * 2021-2023 [Signal Four Analytics - Crash Mapping and Geospatial Analysis Tool and System Development](https://www.geoplan.ufl.edu/portfolio/s4/). Supported by the State of Florida
 <!-- [Project page](https://www.geoplan.ufl.edu/portfolio/s4/); [Dashboard](https://signal4analytics.com/)-->
 
+
 * 2016 Detailed Planning of Fangshan National Park in Zhejiang, China - 2016-2030
 
 * 2016-2017 [Master Planning of Mount Heng (Hengshan) National Park in Shanxi, China](https://www.pkuplanning.com/html/pic/d/598.html) - 2016 Revision, 2001-2030
@@ -61,7 +62,7 @@ I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/
 
 *Design project*:
 
-* 2015 The regeneration planning of Dingxing Old City in Hebei, China & the conceptual design of the greenbelt surrounding the city.
+* 2015 The regeneration planning of Dingxing Old City in Hebei, China & the conceptual design of the greenbelt surrounding the city. <br /> 
   [Bronze Award in China's Living Enviornment Design Competition](https://www.pkuplanning.com/html/pic/d/598.html), national-level award given by Tsinghua University and the Ministry of Education of China
 
 <!-- *Updated: July 2024* -->
