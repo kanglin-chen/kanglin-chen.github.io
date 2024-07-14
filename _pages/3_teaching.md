@@ -4,23 +4,6 @@ title: Teaching
 permalink: /teaching/
 image:
 ---
-<!--
-# Title 1
-## Title 2
-### Title3
-
- Bullet list:
-* Start a line with an asterisk
-* Food
-  * Fruits
-    * Oranges
-
-Teaching is arguably the most impactful part of my graduate training.
-I love teaching introductory statistics!
-
-The following are the classes I have TA-ed for at UC Santa Cruz.
-If you're a TA and would like access to any of my slides or materials, please contact me. -->
-
 
 
 <!-- to add image to this page, do as below -->
@@ -74,3 +57,43 @@ If you're a TA and would like access to any of my slides or materials, please co
 * *Peking University, 2016*
 
     * National Park Planning and World Heritage Management - Teaching Assistant, College of Urban and Environmental Sciences, Spring 2016
+
+<!-- 
+# Heading 1
+## Heading 2
+### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
+
+## Unordered List
+* List Item
+* Longer List Item
+  * Nested List Item
+  * Nested Item
+* List Item
+
+## Ordered List
+1. List Item
+2. Longer List Item
+    1. Nested OL Item
+    2. Another Nested Item
+3. List Item
+
+## Definition List
+<dl>
+  <dt>Coffee</dt>
+  <dd>Black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>White cold drink</dd>
+</dl>
+
+## Table
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
+| Header      | Title       |
+| Paragraph   | Text        |
+-->
