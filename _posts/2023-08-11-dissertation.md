@@ -12,3 +12,5 @@ After the disruption caused by COVID-19 on travel worldwide, American travel tre
 This dissertation investigates the changes in Americans' travel patterns and the adaptations in multiple dimensions following COVID-19. It also examines the associations between these adapted travel behaviors and 23 social vulnerability factors as well as 19 built environment factors, based on spatial regression and correlation analyses.
 
 <br />
+
+[*Chen, K. C. (2023). Beyond the Early Disruption of COVID-19: Americans' Travel Adaptations and Their Associations With Social Vulnerability and the Built Environment. University of Florida.*.](https://www.proquest.com/docview/2880653621?pq-origsite=gscholar&fromopenview=true)
