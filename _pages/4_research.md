@@ -31,8 +31,7 @@ I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/
 
 * 2020-2023 Beyond the early disruption of COVID-19: the association between the built environment and travel adaptations by multi-unit housing residents in Manhattan and the Bronx, NY (Dissertation)  -->
 
-* 2020-2022 [Longitudinal and Spatial Analysis of Americans' Travel Distances Following COVID-19](https://www.sciencedirect.com/science/article/pii/S1361920922002401?via%3Dihub).
-  [First-place Award in UF DCP's 2021 Research Symposium](https://dcp.ufl.edu/news/2021symposiumstudentposterwinners/)
+* 2020-2022 [Longitudinal and Spatial Analysis of Americans' Travel Distances Following COVID-19](https://www.sciencedirect.com/science/article/pii/S1361920922002401?via%3Dihub) <br />[First-place Award in UF DCP's 2021 Research Symposium](https://dcp.ufl.edu/news/2021symposiumstudentposterwinners/)
 
 * 2021-2023 [Immersive Virtual Reality versus 360 Panorama for People's Visual Evaluation of Geodesign Projects](https://mediaspace.esri.com/media/t/1_tx8ijpki)
 
@@ -42,12 +41,12 @@ I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/
 
 * 2018 Evaluating the Implementation of Master Planning of National Parks in China (Master's Thesis)
 
-* 2015-2018 [World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er](https://whc.unesco.org/en/list/1665/). Recognized in 2023 as the world's first tea-related World Heritage site
+* 2015-2018 [World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er](https://whc.unesco.org/en/list/1665/) <br />Recognized in 2023 as the world's first tea-related World Heritage site
 
 
 *Practical projects*:
 
-* 2021-2023 [Signal Four Analytics - Crash Mapping and Geospatial Analysis Tool and System Development](https://www.geoplan.ufl.edu/portfolio/s4/). Supported by the State of Florida
+* 2021-2023 [Signal Four Analytics - Crash Mapping and Geospatial Analysis Tool and System Development](https://www.geoplan.ufl.edu/portfolio/s4/)
 <!-- [Project page](https://www.geoplan.ufl.edu/portfolio/s4/); [Dashboard](https://signal4analytics.com/)-->
 
 
