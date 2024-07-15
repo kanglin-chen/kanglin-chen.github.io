@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Signal Four Analytics: Traffic Safety Analytics"
+date:   2018-07-01
+image: /assets/img/S4-dashboard.png
+caption:
+usemathjax: true
+---
+
+Florida Signal4 Analytics is an interactive, web-based system designed to support the crash mapping and analysis needs of law enforcement, traffic engineering, transportation planning agencies, and research institutions in the state of Florida. Among the data used to generate geospatial results in the Signal4 system is over 4 million crash records, provided by DHSMV, over 4 million citations, Florida Unified GIS Streets, and local traffic volumes (where available).
+
+The collaborative system is designed to aid the improvement of traffic information sharing in the state of Florida. The geospatial analysis of crash data informs safety decision-making, and Signal Four Analytics provides information and visualization in support of an evidence-based transportation planning process. Users include, but are not limited to, law enforcement, civil engineers, transportation planners, and university centers.
+
+This system is developed by the GeoPlan Center at the University of Florida, and funded by the state of Florida through the Traffic Records Coordinating Committee. The system was made available for use via the internet to any interested public agency or organization in Florida. The system is designed to be accessible and easy to use for all skill levels, as open source data sharing is a driving goal for the project.
+
+Signal4 Analytics also maintains the publicly available Florida Traffic Safety Dashboard, which provides crash data across Florida. 
+
+{% include image.html url="/assets/img/WH-media.jpg" %}
+
+<br />
+
+My role: graduate assistant during 2021-2023; Student group supervisor on Student group supervisor for developing the diagramming tools, tool testing, and examining user feedback for system optimization
+
+[*Signal4 Analytics.*](https://www.geoplan.ufl.edu/portfolio/signal4/)
