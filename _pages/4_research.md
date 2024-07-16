@@ -46,7 +46,7 @@ I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/
 
 *Practical projects*:
 
-* 2021-2023 [Signal Four Analytics - Crash Mapping and Geospatial Analysis Tool and System Development](https://www.geoplan.ufl.edu/portfolio/s4/)
+* 2021-2023 [Signal Four Analytics：Traffic Safety，Crash Mapping Tool Development](https://www.geoplan.ufl.edu/portfolio/s4/)
 <!-- [Project page](https://www.geoplan.ufl.edu/portfolio/s4/); [Dashboard](https://signal4analytics.com/)-->
 
 
