@@ -40,7 +40,7 @@ image:
 
     * Quantitative Data Analysis for Planners - Teaching Assistant, Urban and Regional Planning Department, Fall 2020
  
-    * Signal Four Analytics Project: Crash Mapping and Geospatial Analysis Tool and System Development - Student Group Supervisor, UF GeoPlan Center, Summer 2022-2023
+    * Signal Four Analytics Project: Traffic Safety，Crash Mapping Tool Development - Student Group Supervisor, UF GeoPlan Center, Summer 2022-2023
 
     * Planning and Design I - Under Supervised Teaching, Urban and Regional Planning Department, Fall 2021
 
