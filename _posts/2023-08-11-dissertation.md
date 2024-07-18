@@ -2,7 +2,7 @@
 layout: post
 title:  "Beyond the Early Disruption of COVID-19: Americans' Travel Adaptations and Their Associations With Social Vulnerability and the Built Environment"
 date:   2023-08-11
-image: /assets/img/Dissertation.png
+image: /assets/img/Dissertation.jpg
 caption:
 usemathjax: true
 ---
