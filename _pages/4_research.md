@@ -19,7 +19,7 @@ More specifically I'm interested in:
 * Official Statistics
 * GeoSpatial Analysis  -->
 
-I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/) during my Ph.D., and [Ilir Bejleri](https://dcp.ufl.edu/faculties/bejleri-ilir/) also supervised my work.
+I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/) for my Ph.D., and [Ilir Bejleri](https://dcp.ufl.edu/faculties/bejleri-ilir/) also supervised my work.
 
 *Research projects*:
 
