@@ -20,7 +20,7 @@ My primary research methods include spatial and statistical analysis, 3D geospat
 I have participated in environment-related research and practical projects in both the U.S. and China. 
 <br />
 
-I consider myself as an urban planner, a geographer, and a social-technological scholar. 
+I consider myself as a spatial scientist and urban planner. 
 <br />
 
 This site is a blend of professional & personal content.
