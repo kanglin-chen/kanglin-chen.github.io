@@ -23,9 +23,6 @@ I have participated in environment-related research and practical projects in bo
 I consider myself as a spatial scientist and urban planner. 
 <br />
 
-This site is a blend of professional & personal content.
-<br />
-
 <br />
 {% include image.html url="/assets/img/seaside.jpg" description="Maui June 2024" %}
 
