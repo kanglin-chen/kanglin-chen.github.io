@@ -42,7 +42,7 @@ I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/
 
 * 2018 Evaluating the Implementation of Master Planning of National Parks in China (Master's Thesis)
 
-* 2015-2018 [World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er](https://whc.unesco.org/en/list/1665/) <br />Recognized in 2023 as the world's first tea-related World Heritage site (community-engaged, government-led)
+* 2015-2018 [World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er](https://whc.unesco.org/en/list/1665/) (government-led, community-engaged) <br />Recognized in 2023 as the world's first tea-related World Heritage site
 
 
 *Practical projects*:
