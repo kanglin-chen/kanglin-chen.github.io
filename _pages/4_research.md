@@ -45,7 +45,7 @@ I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/
 * 2015-2018 [World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er](https://whc.unesco.org/en/list/1665/) <br />Recognized in 2023 as the world's first tea-related World Heritage site
 
 
-*Practical projects*:
+*Practical projects: community-engaged, government-collaborated, products in use*
 
 * 2021-2023 [Signal Four Analytics：Traffic Safety，Crash Mapping Tool Development](https://www.geoplan.ufl.edu/portfolio/s4/)
 <!-- [Project page](https://www.geoplan.ufl.edu/portfolio/s4/); [Dashboard](https://signal4analytics.com/)-->
