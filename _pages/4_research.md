@@ -54,7 +54,7 @@ I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/
 
 * 2016-2017 [Master Planning of Mount Heng (Hengshan) National Park in Shanxi, China](https://www.pkuplanning.com/html/pic/d/598.html) - 2016 Revision, 2001-2030 (government-led)
 
-* 2015 Historic Preservation and Urban Regeneration Planning of Dingxing Old City in Hebei, China (community-engaged, government-supported)
+* 2015 Historic Preservation and Urban Regeneration Planning of Dingxing Old City in Hebei, China
 
 * 2014 Planning & Design of ZOJE Industrial Park Area in Hebei, China
 
