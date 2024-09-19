@@ -36,26 +36,25 @@ I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/
 
 * 2021-2023 [Immersive Virtual Reality versus 360 Panorama for People's Visual Evaluation of Geodesign Projects](https://mediaspace.esri.com/media/t/1_tx8ijpki)
 
-* 2020 [Enhancing Resilience of Port St. Joe, FL](https://dcp.ufl.edu/frc/building-a-resilient-urban-park-system-in-port-st-joe/)
+* 2020 [Enhancing Resilience of Port St. Joe, FL](https://dcp.ufl.edu/frc/building-a-resilient-urban-park-system-in-port-st-joe/) (a community-engaged, government-supported project)
 
-* 2019 [Quantifying Landscape Performance of Depot Park, Gainesville, FL](https://www.landscapeperformance.org/case-study-briefs/depot-park-phases-1-2)
+* 2019 [Quantifying Landscape Performance of Depot Park, Gainesville, FL](https://www.landscapeperformance.org/case-study-briefs/depot-park-phases-1-2) (community-engaged)
 
 * 2018 Evaluating the Implementation of Master Planning of National Parks in China (Master's Thesis)
 
-* 2015-2018 [World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er](https://whc.unesco.org/en/list/1665/) <br />Recognized in 2023 as the world's first tea-related World Heritage site
+* 2015-2018 [World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er](https://whc.unesco.org/en/list/1665/) <br />Recognized in 2023 as the world's first tea-related World Heritage site (community-engaged, government-led)
 
 
-*Practical projects: community-engaged, government-collaborated, products in use*
+*Practical projects*:
 
-* 2021-2023 [Signal Four Analytics：Traffic Safety，Crash Mapping Tool Development](https://www.geoplan.ufl.edu/portfolio/s4/)
-<!-- [Project page](https://www.geoplan.ufl.edu/portfolio/s4/); [Dashboard](https://signal4analytics.com/)-->
+* 2021-2023 [Signal Four Analytics：Traffic Safety，Crash Mapping Tool Development](https://www.geoplan.ufl.edu/portfolio/s4/) (government-supported)
+<!-- [Project page](https://www.geoplan.ufl.edu/portfolio/s4/); [Dashboard](https://signal4analytics.com/)--> 
 
+* 2016 Detailed Planning of Fangshan National Park in Zhejiang, China (government-led)
 
-* 2016 Detailed Planning of Fangshan National Park in Zhejiang, China
+* 2016-2017 [Master Planning of Mount Heng (Hengshan) National Park in Shanxi, China](https://www.pkuplanning.com/html/pic/d/598.html) - 2016 Revision, 2001-2030 (government-led)
 
-* 2016-2017 [Master Planning of Mount Heng (Hengshan) National Park in Shanxi, China](https://www.pkuplanning.com/html/pic/d/598.html) - 2016 Revision, 2001-2030
-
-* 2015 Historic Preservation and Urban Regeneration Planning of Dingxing Old City in Hebei, China
+* 2015 Historic Preservation and Urban Regeneration Planning of Dingxing Old City in Hebei, China (community-engaged, government-supported)
 
 * 2014 Planning & Design of ZOJE Industrial Park Area in Hebei, China
 
