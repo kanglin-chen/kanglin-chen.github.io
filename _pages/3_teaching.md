@@ -22,9 +22,9 @@ image:
  
         <!-- * Student work case: [Extra-political Influences on COVID-19 Vaccination Coverage](https://storymaps.arcgis.com/stories/c4937fe055ed49229979fed984ec3894), by Aiden J. Taylor, December 2023-->
 
-    * [GIS Institute: Immersive Training for Spatial Research](https://gis.harvard.edu/gis-institute) - Instructor, Center for Geographic Analysis (CGA), Winter & Summer 2024
+    * [GIS Institute: Immersive Training for Spatial Research](https://gis.harvard.edu/gis-institute) - Instructor, Harvard CGA, Winter & Summer 2024
 
-    * [The Summer Training Workshop on Spatiotemporal Innovation](https://projects.iq.harvard.edu/chinadatalab/event/summer-workshop-spatiotemporal-innovation-0) - Teaching Assistant, Center for Geographic Analysis (CGA), Summer 2024
+    * [The Summer Training Workshop on Spatiotemporal Innovation](https://projects.iq.harvard.edu/chinadatalab/event/summer-workshop-spatiotemporal-innovation-0) - Teaching Assistant, Harvard CGA, Summer 2024
  
         * *Guest Lectures*
    
@@ -32,7 +32,7 @@ image:
          
             * [Hazard mapping and public health](https://gis.harvard.edu/event/spatial-analysis-hazard-mapping-public-health) - Harvard T.H. Chan School of Public Health, Spring 2024
           
-            * [3D geospatial techniques and the trends of visualization](https://gis.harvard.edu/event/3d-geospatial-techniques-and-trends-visualization) - Harvard Graduate School of Design (GSD), Fall 2023
+            * [3D geospatial techniques and the trends of visualization](https://gis.harvard.edu/event/3d-geospatial-techniques-and-trends-visualization) - Harvard GSD, Fall 2023
         
 * *University of Florida, 2018 -- 2023*
 
