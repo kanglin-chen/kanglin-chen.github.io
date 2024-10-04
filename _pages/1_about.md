@@ -14,7 +14,7 @@ I got a Ph.D. in <a href="https://dcp.ufl.edu/urp/">Urban and Regional Planning<
 My research interests include spatial science, urban planning, travel behavior, hazards & resilience, and public health.
 <br />
 
-My primary research methods include spatial analysis, big data analytics, spatial statistics, statistical analysis, 3D geospatial techniques, and data mining. I am proficient in GIS software, Python, and R. I also have training in qualitative methods as well as urban and landscape design.
+My primary research methods include spatial analysis, big data analytics, spatial statistics, statistical analysis, and 3D geospatial techniques. I am proficient in GIS software, Python, and R. I also have training in data mining, qualitative methods, community-based planning, and urban and landscape design.
 <br />
 
 I have participated in environment-related research and practical projects in both the U.S. and China. 
