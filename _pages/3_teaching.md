@@ -56,7 +56,7 @@ image:
  
         * *Guest Lectures*
      
-            * Data description and visualization using RStudio - Urban and Regional Planning Department, Fall 2020
+            * Data description and visualization using R - Urban and Regional Planning Department, Fall 2020
          
             * Analyzing TripAdvisor reviews of urban parks - Landscape Architecture Department, Spring 2020
          
