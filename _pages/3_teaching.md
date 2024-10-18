@@ -28,7 +28,7 @@ image:
  
         * *Guest Lectures*
    
-            * Hazard Assessment and Mapping - Harvard Extension School, Fall 2024
+            * Hazard assessment and mapping - Harvard Extension School, Fall 2024
             
             * Street design, 3D visualization, VR, and GIS Animation - Harvard Graduate School of Design (GSD), Spring 2024
          
