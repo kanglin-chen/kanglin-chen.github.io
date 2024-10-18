@@ -16,7 +16,7 @@ image:
     
        <!-- * Student work case: [Samoa Community Vulnerability Index](https://storymaps.arcgis.com/stories/cfa5e7d7ca7e4298a7df78245034aa0b), by Jennifer Powley, May 2024-->
 
-    * [GOV1009: Advanced GIS](https://gis.harvard.edu/gov-1009-advanced-geographical-information-systems-workshop-4) (Score: 4.8/5.0) - Instructor, Government Department, Spring 2024 & 2025
+    * [GOV1009: Advanced GIS](https://gis.harvard.edu/gov-1009-advanced-geographical-information-systems-workshop-4) (4.8/5.0) - Instructor, Government Department, Spring 2024 & 2025
 
     * [GOV1008: Introduction to Geographic Information Systems](https://gis.harvard.edu/gov-1008-introduction-geographic-information-systems-4) - Instructor, Government Department, Fall 2023 & 2024
  
@@ -28,11 +28,19 @@ image:
  
         * *Guest Lectures*
    
-            * [Street design, 3D visualization, VR, and GIS Animation](https://gis.harvard.edu/event/urban-street-design-3d-geospatial-modeling-gis-analysis-visualization-about-networks-and) - Harvard Graduate School of Design (GSD), Spring 2024
+            * Hazard Assessment and Mapping - Harvard Extension School, Fall 2024
+            
+            * Street design, 3D visualization, VR, and GIS Animation - Harvard Graduate School of Design (GSD), Spring 2024
          
-            * [Hazard mapping and public health](https://gis.harvard.edu/event/spatial-analysis-hazard-mapping-public-health) - Harvard T.H. Chan School of Public Health, Spring 2024
+              <!-- https://gis.harvard.edu/event/urban-street-design-3d-geospatial-modeling-gis-analysis-visualization-about-networks-and-->
+         
+            * Hazard mapping and public health - Harvard T.H. Chan School of Public Health, Spring 2024
+         
+              <!-- https://gis.harvard.edu/event/spatial-analysis-hazard-mapping-public-health-->
           
-            * [3D geospatial techniques and the trends of visualization](https://gis.harvard.edu/event/3d-geospatial-techniques-and-trends-visualization) - Harvard GSD, Fall 2023
+            * 3D geospatial techniques and the trends of visualization - Harvard GSD, Fall 2023
+         
+              <!-- https://gis.harvard.edu/event/3d-geospatial-techniques-and-trends-visualization-->
         
 * *University of Florida, 2018 -- 2023*
 
