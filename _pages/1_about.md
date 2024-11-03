@@ -17,7 +17,7 @@ My research interests include spatial science, urban planning, travel behavior, 
 My primary research methods include spatial analysis, big data analytics, spatial statistics, remote sensing, 3D geospatial techniques, and statistical analysis. I am proficient in GIS software, Python, and R. I also have training in data mining, qualitative methods, community-based approaches, and urban \& landscape design.
 <br />
 
-I have participated in research and practical projects focusing on the environment and transportation in the U.S. and China. The practical projects involve developing plans or tools that are put into use, with government collaboration and consistent community engagement.
+I have participated in research and practical projects focusing on the environment and transportation in the U.S. and China. The practical projects involve developing plans or tools in use, in collaboration with government agencies and through consistent community engagement.
 <br />
 
 I consider myself as a spatial scientist and urban planner. 
