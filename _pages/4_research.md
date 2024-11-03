@@ -23,6 +23,8 @@ I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/
 
 *Research projects*:
 
+* 2024 - Present Building Community Resilience in Maui: Analyzing Integrated Hazard Vulnerability and Adaptation Strategies for Land Use, Relocation, and Equitable Facility Access
+
 * 2020-2023 [Beyond the Early Disruption of COVID-19: Americans' Travel Adaptations and Their Associations With Social Vulnerability and the Built Environment](https://www.proquest.com/docview/2880653621?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) (Dissertation)
 
 <!-- * 2020-2023 Beyond the early disruption of COVID-19: Americans’ travel changes and adaptations (Dissertation)
