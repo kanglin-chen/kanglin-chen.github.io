@@ -8,7 +8,7 @@ caption:
 
 <br />
 
-I got a Ph.D. in <a href="https://dcp.ufl.edu/urp/">Urban and Regional Planning</a>, an MS in <a href="https://www.ues.pku.edu.cn/Home/Departments/Department_of_Urban_and_Regional_Planning/index.htm">Geography (Urban and Regional Planning)</a>, and a Bachelor's degree in <a href="https://sola.bjfu.edu.cn/">Landscape Gardening</a>. 
+I got a Ph.D. in <a href="https://dcp.ufl.edu/urp/">Urban and Regional Planning</a>, an MS in <a href="https://www.ues.pku.edu.cn/Home/Departments/Department_of_Urban_and_Regional_Planning/index.htm">Geography (Urban and Regional Planning)</a>, and a Bachelor's degree in <a href="https://sola.bjfu.edu.cn/">Agriculture (Landscape Gardening)</a>. 
 <br />
 
 My research interests include spatial science, urban planning, travel behavior, hazards & resilience, and public health.
