@@ -12,11 +12,11 @@ image:
 <!--  to add link to text, do : [Link text Here](https://link-url-here.org) -->
 * *Harvard University, 2023 -- now*
 
+    * [GOV1009: Advanced GIS](https://gis.harvard.edu/gov-1009-advanced-geographical-information-systems-workshop-4) (4.8/5.0) - Instructor, Government Department, Spring 2024 & 2025
+
     * [GOV1013: GIS Analysis of Hazard Vulnerability](https://gis.harvard.edu/gov-1013-gis-analysis-hazard-vulnerability) (Instructor overall score: 4.75/5.0) - Instructor, Government Department,  Spring 2024 & 2025
     
        <!-- * Student work case: [Samoa Community Vulnerability Index](https://storymaps.arcgis.com/stories/cfa5e7d7ca7e4298a7df78245034aa0b), by Jennifer Powley, May 2024-->
-
-    * [GOV1009: Advanced GIS](https://gis.harvard.edu/gov-1009-advanced-geographical-information-systems-workshop-4) (4.8/5.0) - Instructor, Government Department, Spring 2024 & 2025
 
     * [GOV1008: Introduction to Geographic Information Systems](https://gis.harvard.edu/gov-1008-introduction-geographic-information-systems-4) - Instructor, Government Department, Fall 2023 & 2024
  
