@@ -28,6 +28,8 @@ image:
  
         * *Guest Lectures*
    
+            * Workflow-based spatial analysis in advanced GIS education - Harvard Center for Geographic Analysis, Winter 2024
+            
             * Hazard assessment and mapping - Harvard Extension School, Fall 2024
             
             * Street design, 3D visualization, VR, and GIS Animation - Harvard Graduate School of Design (GSD), Spring 2024
