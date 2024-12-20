@@ -38,7 +38,7 @@ I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/
 
 * 2021-2023 [Immersive Virtual Reality versus 360 Panorama for People's Visual Evaluation of Geodesign Projects](https://mediaspace.esri.com/media/t/1_tx8ijpki)
 
-* 2020 [Enhancing Resilience of Port St. Joe, FL](https://dcp.ufl.edu/frc/building-a-resilient-urban-park-system-in-port-st-joe/) (a government-collaborative, community-engaged project)
+* 2020 [Enhancing Resilience of Port St. Joe, FL](https://dcp.ufl.edu/frc/building-a-resilient-urban-park-system-in-port-st-joe/) (a government-collaborated, community-engaged project)
 
 * 2019 [Quantifying Landscape Performance of Depot Park, Gainesville, FL](https://www.landscapeperformance.org/case-study-briefs/depot-park-phases-1-2)
   
@@ -49,7 +49,7 @@ I was advised by [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/
 
 *Practical projects*:
 
-* 2021-2023 [Signal Four Analytics：Traffic Safety，Crash Mapping Tool Development](https://www.geoplan.ufl.edu/portfolio/s4/) (government-collaborative)
+* 2021-2023 [Signal Four Analytics：Traffic Safety，Crash Mapping Tool Development](https://www.geoplan.ufl.edu/portfolio/s4/) (government-collaborated)
 <!-- [Project page](https://www.geoplan.ufl.edu/portfolio/s4/); [Dashboard](https://signal4analytics.com/)--> 
 
 * 2016 Detailed Planning of Fangshan National Park in Zhejiang, China (government-led)
