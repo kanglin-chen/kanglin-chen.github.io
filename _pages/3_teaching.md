@@ -18,7 +18,7 @@ image:
     
        <!-- * Student work case: [Samoa Community Vulnerability Index](https://storymaps.arcgis.com/stories/cfa5e7d7ca7e4298a7df78245034aa0b), by Jennifer Powley, May 2024-->
 
-    * [GOV1008: Introduction to Geographic Information Systems](https://gis.harvard.edu/gov-1008-introduction-geographic-information-systems-4) - Instructor, Government Department, 2023 - 
+    * [GOV1008: Introduction to Geographic Information Systems](https://gis.harvard.edu/gov-1008-introduction-geographic-information-systems-4) (4.86/5.0) - Instructor, Government Department, 2023 - 
  
         <!-- * Student work case: [Extra-political Influences on COVID-19 Vaccination Coverage](https://storymaps.arcgis.com/stories/c4937fe055ed49229979fed984ec3894), by Aiden J. Taylor, December 2023-->
 
