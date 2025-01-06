@@ -59,9 +59,9 @@ More specifically I'm interested in:
 * 2014 Planning & Design of ZOJE Industrial Park Area in Hebei, China
 
 
-*Design project*:
+<!-- *Design project*:
 
 * 2015 The regeneration planning of Dingxing Old City in Hebei, China & the conceptual design of the greenbelt surrounding the city.
-<br />[Bronze Award in China's Living Enviornment Design Competition](http://www.xuenianjiang.com/apply/opus_list?year=2015), given by Tsinghua University and the Ministry of Education of China.
+<br />[Bronze Award in China's Living Enviornment Design Competition](http://www.xuenianjiang.com/apply/opus_list?year=2015), given by Tsinghua University and the Ministry of Education of China.>
 
 <!-- *Updated: July 2024* -->
