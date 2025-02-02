@@ -24,25 +24,19 @@ image:
 
     * [GIS Institute: Immersive Training for Spatial Research](https://gis.harvard.edu/gis-institute) - Instructor, Harvard CGA, 2024 - 
 
-    <!-- * [The Summer Training Workshop on Spatiotemporal Innovation](https://projects.iq.harvard.edu/chinadatalab/event/summer-workshop-spatiotemporal-innovation-0) - Teaching Assistant, Harvard CGA, Summer 2024-->
- 
-        * *Guest Lectures*
+    <!-- * [The Summer Training Workshop on Spatiotemporal Innovation](https://projects.iq.harvard.edu/chinadatalab/event/summer-workshop-spatiotemporal-innovation-0) - Teaching Assistant, Harvard CGA, Summer 2024 -->
+  
+   * Guest Lectures
    
-            * Workflow-based spatial analysis in advanced GIS education - Harvard Center for Geographic Analysis, Winter 2024
+      * Workflow-based spatial analysis in advanced GIS education - Harvard Center for Geographic Analysis, Winter 2024
             
-            * Hazard assessment and mapping - Harvard Extension School, Fall 2024
+      * Hazard assessment and mapping - Harvard Extension School, Fall 2024
             
-            * Street design, 3D visualization, VR, and GIS Animation - Harvard Graduate School of Design (GSD), Spring 2024
+      * Street design, 3D visualization, VR, and GIS Animation - Harvard Graduate School of Design (GSD), Spring 2024
          
-              <!-- https://gis.harvard.edu/event/urban-street-design-3d-geospatial-modeling-gis-analysis-visualization-about-networks-and-->
-         
-            * Hazard mapping and public health - Harvard T.H. Chan School of Public Health, Spring 2024
-         
-              <!-- https://gis.harvard.edu/event/spatial-analysis-hazard-mapping-public-health-->
+      * Hazard mapping and public health - Harvard T.H. Chan School of Public Health, Spring 2024
           
-            * 3D geospatial techniques and the trends of visualization - Harvard GSD, Fall 2023
-         
-              <!-- https://gis.harvard.edu/event/3d-geospatial-techniques-and-trends-visualization-->
+      * 3D geospatial techniques and the trends of visualization - Harvard GSD, Fall 2023
         
 * *University of Florida, 2018 -- 2023*
 
@@ -56,17 +50,17 @@ image:
 
     * Advanced Landscape Architecture Studio - Under Supervised Teaching, Landscape Architecture Department, Fall 2019
  
-        * *Guest Lectures*
+    * Guest Lectures
      
-            * Data description and visualization using R - Urban and Regional Planning Department, Fall 2020
+      * Data description and visualization using R - Urban and Regional Planning Department, Fall 2020
          
-            * Analyzing TripAdvisor reviews of urban parks - Landscape Architecture Department, Spring 2020
+      * Analyzing TripAdvisor reviews of urban parks - Landscape Architecture Department, Spring 2020
          
-            * Landscape Performance quantification: methods and metrics - Landscape Architecture Department, Fall 2019
+      * Landscape Performance quantification: methods and metrics - Landscape Architecture Department, Fall 2019
 
 * *Peking University, 2016*
 
-    * National Park Planning and World Heritage Management - Teaching Assistant, College of Urban and Environmental Sciences, Spring 2016
+     * National Park Planning and World Heritage Management - Teaching Assistant, College of Urban and Environmental Sciences, Spring 2016
 
 <!-- 
 # Heading 1
