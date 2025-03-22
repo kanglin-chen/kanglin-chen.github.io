@@ -36,23 +36,31 @@ More specifically I'm interested in:
 
 * 2021-2023 [Immersive Virtual Reality versus 360 Panorama for People's Visual Evaluation of Geodesign Projects](https://mediaspace.esri.com/media/t/1_tx8ijpki)
 
-* 2020 [Enhancing Resilience of Port St. Joe, FL](https://dcp.ufl.edu/frc/building-a-resilient-urban-park-system-in-port-st-joe/) (a government-collaborated, community-engaged project)
+* 2020 [Enhancing Resilience of Port St. Joe, FL](https://dcp.ufl.edu/frc/building-a-resilient-urban-park-system-in-port-st-joe/)
+<br />Collaborated with city departments in PSJ, incorporating community engagement
 
 * 2019 [Quantifying Landscape Performance of Depot Park, Gainesville, FL](https://www.landscapeperformance.org/case-study-briefs/depot-park-phases-1-2)
   
 * 2018 Evaluating the Implementation of Master Planning of National Parks in China (Master's Thesis)
+<br />Funded by Chinese central government
 
-* 2015-2018 [World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er](https://whc.unesco.org/en/list/1665/) (government-led, community-engaged) <br />Recognized in 2023 as the world's first tea-related World Heritage site
+* 2015-2018 [World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er](https://whc.unesco.org/en/list/1665/)
+<br />Recognized by UNESCO in 2023 as the world's first tea-related World Heritage site;
+<br />Collaborated with Chinese central governments and multiple levels of local agencies, with consistent community engagement
+
 
 
 *Practical projects*:
 
-* 2021-2023 [Signal Four Analytics：Traffic Safety，Crash Mapping Tool Development](https://www.geoplan.ufl.edu/portfolio/s4/) (government-collaborated)<br />Used by FDOT and some other agencies
+* 2021-2023 [Signal Four Analytics：Traffic Safety，Crash Mapping Tool Development](https://www.geoplan.ufl.edu/portfolio/s4/)
+<br /> Crash documentation system and tool development, used by FL transportation agencies and promoted by USDOT
 <!-- [Project page](https://www.geoplan.ufl.edu/portfolio/s4/); [Dashboard](https://signal4analytics.com/)--> 
 
-* 2016 Detailed Planning of Fangshan National Park in Zhejiang, China (government-led)
+* 2016 Detailed Planning of Fangshan National Park in Zhejiang, China
+<br /> Collaborated with Zhejiang provincial governments
 
-* 2016-2017 [Master Planning of Mount Heng (Hengshan) National Park in Shanxi, China](https://www.pkuplanning.com/html/pic/d/598.html) - 2016 Revision, 2001-2030 (government-led)
+* 2016-2017 [Master Planning of Mount Heng (Hengshan) National Park in Shanxi, China](https://www.pkuplanning.com/html/pic/d/598.html) - 2016 Revision, 2001-2030
+<br /> Led by Chinese central governments and Shanxi provincial governments. The plan is in use.
 
 * 2015 Historic Preservation and Urban Regeneration Planning of Dingxing Old City in Hebei, China
 
