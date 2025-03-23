@@ -42,7 +42,6 @@ More specifically I'm interested in:
 * 2019 [Quantifying Landscape Performance of Depot Park, Gainesville, FL](https://www.landscapeperformance.org/case-study-briefs/depot-park-phases-1-2)
   
 * 2018 Evaluating the Implementation of Master Planning of National Parks in China (Master's Thesis)
-<br />Funded by Chinese central government
 
 * 2015-2018 [World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er](https://whc.unesco.org/en/list/1665/)
 <br />Recognized by UNESCO in 2023 as the world's first tea-related World Heritage site;
