@@ -21,7 +21,7 @@ More specifically I'm interested in:
 
 *Research projects*:
 
-* 2024 - Maui Redevelopment After the 2023 Wildfire: Community Relocation and Resilient Land Use Planning Through Integrated Hazard Vulnerability and Suitability Analysis
+* 2024 - Maui Redevelopment After the 2023 Wildfire
 
 * 2020-2023 [Beyond the Early Disruption of COVID-19: Americans' Travel Adaptations and Their Associations With Social Vulnerability and the Built Environment](https://www.proquest.com/docview/2880653621?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) (Dissertation. Chair: [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/))
 
