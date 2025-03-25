@@ -1,1 +1,1 @@
-# Academic Profile
+# Academic Profile of Connie Chen
