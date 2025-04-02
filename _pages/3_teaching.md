@@ -27,17 +27,25 @@ image:
     <!-- * [The Summer Training Workshop on Spatiotemporal Innovation](https://projects.iq.harvard.edu/chinadatalab/event/summer-workshop-spatiotemporal-innovation-0) - Teaching Assistant, Harvard CGA, Summer 2024 -->
   
    * Thesis review
-      * Harvard College Student
+  
+      * Harvard College
+     
       * Harvard Graduate School of Design (GSD) Urban Planning Department (UPD)
      
    * Guest Lectures
+     
       * Workflow-based spatial analysis in advanced GIS education - Harvard Center for Geographic Analysis, Winter 2024
-      * Hazard assessment and mapping - Harvard Extension School, Fall 2024  
+        
+      * Hazard assessment and mapping - Harvard Extension School, Fall 2024
+        
       * Street design, 3D visualization, VR, and GIS Animation - Harvard GSD, Spring 2024
+        
       * Hazard mapping and public health - Harvard T.H. Chan School of Public Health, Spring 2024
+        
       * 3D geospatial techniques and the trends of visualization - Harvard GSD, Fall 2023
         
 * *University of Florida, 2018 -- 2023*
+  
     * Urban Economy - Teaching Assistant, Urban and Regional Planning Department, Spring 2021
 
     * Quantitative Data Analysis for Planners - Teaching Assistant, Urban and Regional Planning Department, Fall 2020
@@ -49,8 +57,11 @@ image:
     * Advanced Landscape Architecture Studio - Under Supervised Teaching, Landscape Architecture Department, Fall 2019
  
     * Guest Lectures
+      
       * Data description and visualization using R - Urban and Regional Planning Department, Fall 2020
+        
       * Analyzing TripAdvisor reviews of urban parks - Landscape Architecture Department, Spring 2020
+        
       * Landscape Performance quantification: methods and metrics - Landscape Architecture Department, Fall 2019
 
 * *Peking University, 2016*
