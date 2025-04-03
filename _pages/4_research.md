@@ -47,7 +47,7 @@ More specifically I'm interested in:
 
 * 2015-2018 [World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er](https://whc.unesco.org/en/list/1665/)
 <br />Recognized by UNESCO in 2023 as the world's first tea-related World Heritage site;
-<br />Collaborated with Chinese central governments and multiple levels of local agencies, with consistent community engagement
+collaborated with Chinese central governments and multiple levels of local agencies, with consistent community engagement
 
 
 
