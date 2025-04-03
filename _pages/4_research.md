@@ -25,6 +25,8 @@ More specifically I'm interested in:
 
 * 2024 - US Homeownership
 
+* 2024 - Redlining Zones, Land Surface Temperature, Flooding
+  
 * 2020-2023 [Beyond the Early Disruption of COVID-19: Americans' Travel Adaptations and Their Associations With Social Vulnerability and the Built Environment](https://www.proquest.com/docview/2880653621?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) (Dissertation. Chair: [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/))
 
 <!-- * 2020-2023 Beyond the early disruption of COVID-19: Americans’ travel changes and adaptations (Dissertation)
