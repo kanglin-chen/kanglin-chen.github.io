@@ -30,7 +30,7 @@ image:
   
       * Harvard College
      
-      * Harvard Graduate School of Design (GSD) Urban Planning Department (UPD)
+      * Harvard Graduate School of Design (GSD)
      
    * Guest Lectures
      
