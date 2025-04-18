@@ -26,7 +26,7 @@ image:
 
     <!-- * [The Summer Training Workshop on Spatiotemporal Innovation](https://projects.iq.harvard.edu/chinadatalab/event/summer-workshop-spatiotemporal-innovation-0) - Teaching Assistant, Harvard CGA, Summer 2024 -->
   
-   * Thesis review
+   * Thesis reviewer/critic
   
       * Harvard College
      
