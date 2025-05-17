@@ -24,6 +24,10 @@ I consider myself as a spatial scientist and urban planner.
 <br />
 
 <br />
+Key courses taken: Hazard GIS; 3D Geospatial; Planning Information System; Data Mining; Statistical Method Research; Statistical Social Research; Fundamentals of Probability; Quantitative Data Analysis (TA); Resilience Research and Practice; Resilient Cities; Transportation Policy and Planning; Urban Economy (TA)
+<br />
+
+<br />
 {% include image.html url="/assets/img/seaside.jpg" description="Maui June 2024" %}
 
 <!-- Skip to [short professional summary](#prof). -->
