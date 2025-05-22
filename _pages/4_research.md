@@ -21,6 +21,8 @@ More specifically I'm interested in:
 
 *Research projects*:
 
+* 2025 - Spatial Approaches to Risk Perception and Coping with Extremes
+
 * 2024 - Maui Redevelopment After the 2023 Wildfire
 
 * 2024 - US Homeownership
