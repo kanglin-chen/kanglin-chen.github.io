@@ -14,7 +14,7 @@ I got a Ph.D. in <a href="https://dcp.ufl.edu/urp/">Urban and Regional Planning<
 My research focuses on spatial science and urban planning, with topics including hazard management and resilience, human mobility and transportation planning, and the built environment. 
 <br />
 
-My research methods include spatial analysis, big data analytics, spatial statistics, remote sensing, and data mining. I am proficient in GIS software, Python, and R. I also have training in 3D geospatial techniques, qualitative methods and community-based approaches, and urban and landscape design.
+My research methods include spatial analysis, big data analytics, spatial statistics, remote sensing, and data mining. I am proficient in GIS software, Python, and R. I also have training in 3D geospatial techniques integrated with VR, qualitative methods and community-based approaches, and urban and landscape design.
 <br />
 
 Beyond research, I have participated in practical planning and tool‐development projects in environmental and transportation fields, collaborating with government agencies in both the U.S. and China.
