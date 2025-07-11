@@ -23,7 +23,7 @@ More specifically I'm interested in:
 
 * 2025 - Spatial Approaches to Risk Perception and Coping with Extremes
 
-* 2024 - Maui Redevelopment After the 2023 Wildfire
+* 2024 - Post-wildfire Maui Redevelopment
 
 * 2024 - US Homeownership
 
