@@ -77,4 +77,8 @@ collaborated with Chinese central governments and multiple levels of local agenc
 * 2015 The regeneration planning of Dingxing Old City in Hebei, China & the conceptual design of the greenbelt surrounding the city.
 <br />[Bronze Award in China's Living Enviornment Design Competition](http://www.xuenianjiang.com/apply/opus_list?year=2015), given by Tsinghua University and the Ministry of Education of China.
 
+<br />
+Key courses taken: Hazard GIS; 3D Geospatial; Planning Information System; Data Mining; Statistical Method Research; Statistical Social Research; Fundamentals of Probability; Quantitative Data Analysis (TA); Resilience Research and Practice; Resilient Cities; Transportation Policy and Planning; Urban Economy (TA)
+<br />
+
 <!-- *Updated: July 2024* -->
