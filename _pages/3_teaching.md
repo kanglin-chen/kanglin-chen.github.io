@@ -25,6 +25,8 @@ image:
     * [GIS Institute: Immersive Training for Spatial Research](https://gis.harvard.edu/gis-institute) - Instructor, Harvard CGA, 2024 - 
 
     <!-- * [The Summer Training Workshop on Spatiotemporal Innovation](https://projects.iq.harvard.edu/chinadatalab/event/summer-workshop-spatiotemporal-innovation-0) - Teaching Assistant, Harvard CGA, Summer 2024 -->
+
+    Three students received the Esri Innovation Program (EIP) Student of the Year Award and the Fisher Prize for Excellence in GIS at Harvard          University.
   
    * Thesis reviewer/critic
   
