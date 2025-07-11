@@ -11,7 +11,7 @@ caption:
 I got a Ph.D. in <a href="https://dcp.ufl.edu/urp/">Urban and Regional Planning</a> from the University of Florida, an MS in <a href="https://www.ues.pku.edu.cn/Home/Departments/Department_of_Urban_and_Regional_Planning/index.htm">Geography</a> from Peking University, and a <a href="https://sola.bjfu.edu.cn/">B.Agric.</a> from BJFU.
 <br />
 
-My research focuses on spatial science and urban planning, with topics including hazard management and resilience, human mobility and transportation planning, and the built environment. 
+My research centers on spatial science and urban planning, with broad interests in the built environment (facility and infrastructure planning), as well as in hazard management, resilience, human mobility, and transportation systems.
 <br />
 
 My research methods include spatial analysis, big data analytics, spatial statistics, remote sensing, and data mining. I am proficient in GIS software, Python, and R. I also have training in 3D geospatial techniques integrated with VR, qualitative methods and community-based approaches, and urban and landscape design.
