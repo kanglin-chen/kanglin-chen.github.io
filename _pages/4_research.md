@@ -58,7 +58,7 @@ collaborated with Chinese central governments and multiple levels of local agenc
 *Planning practice projects*:
 
 * 2021-2023 [Signal Four Analytics](https://www.geoplan.ufl.edu/portfolio/s4/) (traffic safety-focused)
-<br /> Used by FL transportation agencies and promoted by USDOT; obtained the [Best Practice in Traffic Records Award](http://www.xuenianjiang.com/apply/opus_list?year=2015) at the Traffic Records Forum 2025
+<br /> Used by FL transportation agencies and promoted by USDOT; obtained the [Best Practice in Traffic Records Award](https://www.atsip.org/trf/) at the Traffic Records Forum 2025
 <!-- [Project page](https://www.geoplan.ufl.edu/portfolio/s4/); [Dashboard](https://signal4analytics.com/)--> 
 
 * 2016 Detailed Planning of Fangshan National Park in Zhejiang, China
