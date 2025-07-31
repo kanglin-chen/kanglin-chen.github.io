@@ -52,8 +52,8 @@ More specifically I'm interested in:
 * 2018 Evaluating the Implementation of Master Planning of National Parks in China (Master's Thesis)
 
 * 2015-2018 [World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er](https://whc.unesco.org/en/list/1665/)
-<br />Recognized by UNESCO in 2023 as the world's first tea-related World Heritage site;
-collaborated with Chinese central governments and multiple levels of local agencies, with consistent community engagement
+<br />Recognized by UNESCO as the world's first tea-related Cultural Landscape World Heritage Site;
+collaborated with Chinese central governments and multiple levels of local agencies; featured consistent community engagement in multi-ethnic areas
 
 
 
