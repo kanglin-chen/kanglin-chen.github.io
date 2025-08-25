@@ -21,6 +21,8 @@ More specifically I'm interested in:
 
 *Research projects*:
 
+* 2025 - Hazards and Migration
+
 * 2025 - UNESCO World Heritage Designation's Impacts, Destination Image, Tourism
 
 * 2025 - Land-Population Typologies
