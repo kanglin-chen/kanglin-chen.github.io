@@ -28,7 +28,7 @@ image:
 
     Three students received the Esri Innovation Program (EIP) Student of the Year Award and the Fisher Prize for Excellence in GIS at Harvard          University.
   
-   * Thesis reviewer/critic
+   * Thesis advisor/reviewer/critic
   
       * Harvard College
      
