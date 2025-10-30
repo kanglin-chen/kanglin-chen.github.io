@@ -36,7 +36,7 @@ image:
      
    * Guest Lectures
      
-      * Hazard assessment and mapping - Harvard Extension School, Fall 2024; Fall 2025
+      * Hazard features, impacts, and mapping - Harvard Extension School, Fall 2024; Fall 2025
       
       * Workflow-based spatial analysis in advanced GIS education - Harvard Center for Geographic Analysis, Winter 2024
         
