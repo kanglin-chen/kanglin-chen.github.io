@@ -21,17 +21,17 @@ More specifically I'm interested in:
 
 *Research projects*:
 
-* 2025 - Hazards and Migration
+* 2025 - Hazards and Migration Patterns
 
-* 2025 - UNESCO World Heritage Designation's Impacts, Destination Image, Tourism
+* 2025 - UNESCO World Heritage Designation's Impacts, Tourism, Text Mining, LLM
 
-* 2025 - Land-Population Typologies
+* 2025 - Global Land-Population Typologies
 
 * 2025 - Spatial Approaches to Risk Perception and Coping with Extremes
 
-* 2024 - Post-wildfire Maui Redevelopment
+* 2024 - Post-wildfire Maui Redevelopment: Multi-criteria Decision Making
 
-* 2024 - US Homeownership
+* 2024 - Trends and Geographies of US Homeownership
 
 * 2024 - Redlining Zones, Land Surface Temperature, Flooding
   
