@@ -23,7 +23,7 @@ More specifically I'm interested in:
 
 * 2025 - Hazards and Migration Patterns
 
-* 2025 - UNESCO World Heritage Designation's Impacts, Tourism, Text Mining, LLM
+* 2025 - UNESCO World Heritage Designation's Impacts, Natural Language Processing
 
 * 2025 - Global Land-Population Typologies
 
