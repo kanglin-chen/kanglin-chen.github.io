@@ -28,12 +28,24 @@ More specifically I'm interested in:
 * 2025 - Global Land-Population Typologies
 
 * 2025 - Spatial Approaches to Risk Perception and Coping with Extremes
+  
+* 2025 - Visual Perception, Streetscape, Bayesian
+
+* 2025 - Waterlogging Detection, Social Sensing
+
+* 2025 - [Enhaced disaster monitoring through Earth observation and social sensing integration Enhanced disaster monitoring through Earth observation and social sensing integration](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443338038000421)
+
+* 2025 - [Spatial patterns in urban water consumption: The role of local climate zones and temperature dynamics](https://www.sciencedirect.com/science/article/pii/S2210670725003142)
+
+* 2025 - Environmental and social drivers, hidradenitis suppurativa prevalence
 
 * 2024 - Post-wildfire Maui Redevelopment: Multi-criteria Decision Making
 
 * 2024 - Trends and Geographies of US Homeownership
 
-* 2024 - Redlining Zones, Land Surface Temperature, Flooding
+* 2024 - Multilevel Analysis, Ecological Adaptive Capacities, Heat and Flooding, Redlining Zones
+
+* 2024 - Streetlight Density, Pedestrian-Involved Motor Vehicle Crashes
   
 * 2020-2023 [Beyond the Early Disruption of COVID-19: Americans' Travel Adaptations and Their Associations With Social Vulnerability and the Built Environment](https://www.proquest.com/docview/2880653621?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) (Dissertation. Chair: [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/))
 
