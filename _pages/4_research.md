@@ -23,7 +23,7 @@ More specifically I'm interested in:
 
 * 2025 - Hazards and Migration Patterns
 
-* 2025 - UNESCO World Heritage Designation's Impacts, Natural Language Processing
+* 2025 - UNESCO World Heritage Impacts, Natural Language Processing
 
 * 2025 - Global Land-Population Typologies
 
@@ -33,13 +33,13 @@ More specifically I'm interested in:
 
 * 2025 - Waterlogging Detection, Social Sensing
 
-* 2025 - [Enhaced disaster monitoring through Earth observation and social sensing integration Enhanced disaster monitoring through Earth observation and social sensing integration](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443338038000421)
+* 2025 - [Enhanced disaster monitoring through Earth observation and social sensing integration](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443338038000421)
 
 * 2025 - [Spatial patterns in urban water consumption: The role of local climate zones and temperature dynamics](https://www.sciencedirect.com/science/article/pii/S2210670725003142)
 
 * 2025 - Environmental and social drivers, hidradenitis suppurativa prevalence
 
-* 2024 - Post-wildfire Maui Redevelopment: Multi-criteria Decision Making
+* 2024 - Post-wildfire Maui Redevelopment, Multi-criteria Decision Making
 
 * 2024 - Trends and Geographies of US Homeownership
 
