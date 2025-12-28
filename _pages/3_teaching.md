@@ -26,7 +26,7 @@ image:
 
     <!-- * [The Summer Training Workshop on Spatiotemporal Innovation](https://projects.iq.harvard.edu/chinadatalab/event/summer-workshop-spatiotemporal-innovation-0) - Teaching Assistant, Harvard CGA, Summer 2024 -->
 
-    Three students received the Esri Innovation Program (EIP) Student of the Year Award and the Fisher Prize for Excellence in GIS at Harvard University. One student received the Harris Social Impact Fellowship (through a GIS-focused plan) at the University of Chicago.
+    Three students received the Esri Innovation Program (EIP) Student of the Year Award and the Fisher Prize for Excellence in GIS at Harvard University. One student received the Harris Social Impact Fellowship at the University of Chicago.
   
    * Thesis advisor/reviewer/critic
   
