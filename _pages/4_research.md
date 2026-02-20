@@ -39,7 +39,7 @@ More specifically I'm interested in:
 
 * 2025 - Environmental and social drivers, hidradenitis suppurativa prevalence
 
-* 2024 - Post-wildfire Maui Redevelopment, Multi-criteria Decision Making
+* 2024 - [A Multi-Scenario Suitability Framework for Relocation Planning: The Case of Post-Wildfire Maui](https://www.sciencedirect.com/science/article/abs/pii/S2210670726001320)
 
 * 2024 - Trends and Geographies of US Homeownership
 
