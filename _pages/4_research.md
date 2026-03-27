@@ -29,7 +29,7 @@ More specifically I'm interested in:
 
 * 2025 - Spatial Approaches to Risk Perception and Coping with Extremes
   
-* 2025 - Visual Perception, Streetscape, Bayesian
+* 2025 - Streetscape, Digital Twin, Visual Perception, Bayesian
 
 * 2025 - Social Sensing-Based Identification of Urban Waterlogging and Resilience Governance: A Case Study of the July 21, 20212 Beijing Rainstorm [in Chinese] (accepted)
 
