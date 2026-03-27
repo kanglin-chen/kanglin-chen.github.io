@@ -31,7 +31,7 @@ More specifically I'm interested in:
   
 * 2025-2026 - Streetscape, Digital Twin, Visual Perception, Bayesian
 
-* 2025 - Social Sensing-Based Identification of Urban Waterlogging and Resilience Governance: A Case Study of the July 21, 20212 Beijing Rainstorm [in Chinese] (accepted)
+* 2025 - Social Sensing-Based Identification of Urban Waterlogging and Resilience Governance: A Case Study of the July 21, 2012 Beijing Rainstorm [in Chinese] (accepted)
 
 * 2025 - [Enhanced disaster monitoring through Earth observation and social sensing integration](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443338038000421)
 
