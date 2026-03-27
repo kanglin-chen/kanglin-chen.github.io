@@ -23,13 +23,13 @@ More specifically I'm interested in:
 
 * 2025 - Hazards and Migration Patterns
 
-* 2025 - UNESCO World Heritage Impacts, Natural Language Processing
+* 2025-2026 - UNESCO World Heritage Impacts, Natural Language Processing
 
 * 2025 - Global Land-Population Typologies
 
-* 2025 - Spatial Approaches to Risk Perception and Coping with Extremes
+* 2025-2026 - Spatial Approaches to Risk Perception and Coping with Extremes
   
-* 2025 - Streetscape, Digital Twin, Visual Perception, Bayesian
+* 2025-2026 - Streetscape, Digital Twin, Visual Perception, Bayesian
 
 * 2025 - Social Sensing-Based Identification of Urban Waterlogging and Resilience Governance: A Case Study of the July 21, 20212 Beijing Rainstorm [in Chinese] (accepted)
 
