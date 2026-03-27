@@ -37,7 +37,7 @@ More specifically I'm interested in:
 
 * 2025 - [Spatial patterns in urban water consumption: The role of local climate zones and temperature dynamics](https://www.sciencedirect.com/science/article/pii/S2210670725003142)
 
-* 2025 - Environmental and social drivers, hidradenitis suppurativa prevalence
+* 2025 - Environmental and social drivers of hidradenitis suppurativa: a geospatial analysis (accepted)
 
 * 2024-2025 - [A Multi-Scenario Suitability Framework for Relocation Planning: The Case of Post-Wildfire Maui](https://www.sciencedirect.com/science/article/abs/pii/S2210670726001320)
 
@@ -45,7 +45,7 @@ More specifically I'm interested in:
 
 * 2024 - Multilevel Analysis, Ecological Adaptive Capacities, Heat and Flooding, Redlining Zones
 
-* 2024 - Streetlight Density, Pedestrian-Involved Motor Vehicle Crashes
+* 2024 - The Impact of Streetlight Placement on Trends and Disparities in Pedestrian-Motor Vehicle Crashes (accepted)
   
 * 2020-2023 [Beyond the Early Disruption of COVID-19: Americans' Travel Adaptations and Their Associations With Social Vulnerability and the Built Environment](https://www.proquest.com/docview/2880653621?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) (Dissertation. Chair: [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/))
 
