@@ -23,21 +23,21 @@ More specifically I'm interested in:
 
 * 2025 - Hazards and Migration Patterns
 
-* 2025-2026 - UNESCO World Heritage Impacts, Natural Language Processing
-
 * 2025 - Global Land-Population Typologies
 
 * 2025-2026 - Spatial Approaches to Risk Perception and Coping with Extremes
   
-* 2025-2026 - Streetscape, Digital Twin, Visual Perception, Bayesian
+* 2025-2026 - Streetscape Visual Perception, Digital Twin, Bayesian
+
+* 2025-2026 - UNESCO World Heritage Impacts, LLM
+
+* 2025-2026 - [Environmental and Social Drivers of Hidradenitis Suppurativa](https://jamanetwork.com/journals/jamadermatology/article-abstract/2848390)
 
 * 2025 - Social Sensing-Based Identification of Urban Waterlogging and Resilience Governance: A Case Study of the July 21, 2012 Beijing Rainstorm [in Chinese] (accepted)
 
-* 2025 - [Enhanced disaster monitoring through Earth observation and social sensing integration](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443338038000421)
-
+* 2025 - [Enhanced disaster monitoring through Earth observation and social sensing integration](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443338038000421) (A chapter of the book: [Data-Driven Earth Observation for Disaster Management From Theory to Practical Applications](https://www.amazon.com/Data-Driven-Earth-Observation-Disaster-Management/dp/0443338035/ref=sr_1_1?dib=eyJ2IjoiMSJ9.l41_qeDdnIRVM-1Ha-0YQzXianFgXlNLW812idnuBvT1weknGajlkLcw2yAEZOwue3QknTW7MvFbOX_Y6383X3o-93tvWPWgbwBuhRXlJLwdLzgY4G54r-PK-xqflGjP.M8zmQUqOCEms9hetEyvIWpJSLrANRuF4bCSjOoBHg8w&dib_tag=se&keywords=Data-Driven+Earth+Observation+for+Disaster+Management+From+Theory+to+Practical+Applications&nsdOptOutParam=true&qid=1778611150&sr=8-1)
+  
 * 2025 - [Spatial patterns in urban water consumption: The role of local climate zones and temperature dynamics](https://www.sciencedirect.com/science/article/pii/S2210670725003142)
-
-* 2025 - Environmental and social drivers of hidradenitis suppurativa: a geospatial analysis (accepted)
 
 * 2024-2025 - [A Multi-Scenario Suitability Framework for Relocation Planning: The Case of Post-Wildfire Maui](https://www.sciencedirect.com/science/article/abs/pii/S2210670726001320)
 
@@ -45,7 +45,7 @@ More specifically I'm interested in:
 
 * 2024 - Multilevel Analysis, Ecological Adaptive Capacities, Heat and Flooding, Redlining Zones
 
-* 2024 - The Impact of Streetlight Placement on Trends and Disparities in Pedestrian-Motor Vehicle Crashes (accepted)
+* 2024-2025 - The Impact of Streetlight Placement on Trends and Disparities in Pedestrian-Motor Vehicle Crashes (accepted)
   
 * 2020-2023 [Beyond the Early Disruption of COVID-19: Americans' Travel Adaptations and Their Associations With Social Vulnerability and the Built Environment](https://www.proquest.com/docview/2880653621?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) (Dissertation. Chair: [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/))
 
