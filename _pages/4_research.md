@@ -33,7 +33,7 @@ More specifically I'm interested in:
 
 * 2025-2026 - [Environmental and Social Drivers of Hidradenitis Suppurativa](https://jamanetwork.com/journals/jamadermatology/article-abstract/2848390)
 
-* 2025 - Social Sensing-Based Identification of Urban Waterlogging and Resilience Governance: A Case Study of the July 21, 2012 Beijing Rainstorm [in Chinese] (accepted)
+* 2025 - [Social Sensing-Based Identification of Urban Waterlogging and Resilience Governance:A Case Study of the July 21, 2012 Beijing Rainstorm](https://oversea.cnki.net/kcms2/article/abstract?v=niGKtOOGHVfJei4tbsPJCHpfxXQni867bWi-5qdPNJRlWZL_OqXjPmxeuugmbH1jvIZZ_B_og2pHWMoERI0BL04jMtN-j9CFVrwB-XNAVSW8gxHwBYpmpkeR68c3Z2TGQMwPqsOOCBv-X2EGD3S7gZuUykG6ZBLhgS4tA2cIqBJveW9qS92oQA==&uniplatform=OVERSEA&language=EN) [in Chinese]
 
 * 2025 - [Enhanced disaster monitoring through Earth observation and social sensing integration](https://www.sciencedirect.com/science/chapter/edited-volume/abs/pii/B9780443338038000421) (A chapter of the book: [Data-Driven Earth Observation for Disaster Management From Theory to Practical Applications](https://www.amazon.com/Data-Driven-Earth-Observation-Disaster-Management/dp/0443338035/ref=sr_1_1?dib=eyJ2IjoiMSJ9.l41_qeDdnIRVM-1Ha-0YQzXianFgXlNLW812idnuBvT1weknGajlkLcw2yAEZOwue3QknTW7MvFbOX_Y6383X3o-93tvWPWgbwBuhRXlJLwdLzgY4G54r-PK-xqflGjP.M8zmQUqOCEms9hetEyvIWpJSLrANRuF4bCSjOoBHg8w&dib_tag=se&keywords=Data-Driven+Earth+Observation+for+Disaster+Management+From+Theory+to+Practical+Applications&nsdOptOutParam=true&qid=1778611150&sr=8-1))
   
