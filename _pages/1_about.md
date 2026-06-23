@@ -8,7 +8,7 @@ caption:
 
 <br />
 
-I got a Ph.D. in <a href="https://dcp.ufl.edu/urp/">Urban and Regional Planning</a> from the University of Florida, an MS in <a href="https://www.ues.pku.edu.cn/Home/Departments/Department_of_Urban_and_Regional_Planning/index.htm">Geography (Urban and Regional Planning)</a> from Peking University, and a B.Agric. in <a href="https://sola.bjfu.edu.cn/">Landscape Gardening</a> from BJFU.
+I got a Ph.D. in <a href="https://dcp.ufl.edu/urp/">Urban and Regional Planning</a> from the University of Florida, an M.S. in <a href="https://www.ues.pku.edu.cn/Home/Departments/Department_of_Urban_and_Regional_Planning/index.htm">Geography (Urban and Regional Planning)</a> from Peking University, and a B.Agric. in <a href="https://sola.bjfu.edu.cn/">Landscape Gardening</a> from BJFU.
 <br />
 
 My research centers on urban planning and spatial science, with broad interests in the built environment (facility and infrastructure planning), as well as in hazard management, resilience, human mobility, and transportation.
