@@ -10,27 +10,29 @@ image:
 {% include image.html url="/assets/img/Teaching.jpg" description="Fall 2023, student poster session on spatial analysis" %}
 
 <!--  to add link to text, do : [Link text Here](https://link-url-here.org) -->
-* *Harvard University, 2023 -- now*
+* Harvard University, 2023 -- 2026
 
-    * [GOV1009: Advanced GIS](https://gis.harvard.edu/gov-1009-advanced-geographical-information-systems-workshop-4) (Instructor overall score: 4.8/5.0) - Instructor, Government Department, 2024 - 
+    * [GOV1009: Advanced GIS](https://gis.harvard.edu/gov-1009-advanced-geographical-information-systems-workshop-4) (Instructor overall score: 4.8/5.0) - Instructor, Government Department 
 
-    * [GOV1013: GIS Analysis of Hazard Vulnerability](https://gis.harvard.edu/gov-1013-gis-analysis-hazard-vulnerability) (4.75/5.0) - Instructor, Government Department,  2024 - 
+    * [GOV1013: GIS Analysis of Hazard Vulnerability](https://gis.harvard.edu/gov-1013-gis-analysis-hazard-vulnerability) (4.75/5.0) - Instructor, Government Department 
     
        <!-- * Student work case: [Samoa Community Vulnerability Index](https://storymaps.arcgis.com/stories/cfa5e7d7ca7e4298a7df78245034aa0b), by Jennifer Powley, May 2024-->
 
-    * [GOV1008: Introduction to Geographic Information Systems](https://gis.harvard.edu/gov-1008-introduction-geographic-information-systems-4) (4.86/5.0) - Instructor, Government Department, 2023 - 
+    * [GOV1008: Introduction to Geographic Information Systems](https://gis.harvard.edu/gov-1008-introduction-geographic-information-systems-4) (4.86/5.0) - Instructor, Government Department
  
         <!-- * Student work case: [Extra-political Influences on COVID-19 Vaccination Coverage](https://storymaps.arcgis.com/stories/c4937fe055ed49229979fed984ec3894), by Aiden J. Taylor, December 2023-->
 
-    * [GIS Institute: Immersive Training for Spatial Research](https://gis.harvard.edu/gis-institute) - Instructor, Harvard CGA, 2024 - 
+    * [GIS Institute: Immersive Training for Spatial Research](https://gis.harvard.edu/gis-institute) - Instructor, Harvard CGA
 
     <!-- * [The Summer Training Workshop on Spatiotemporal Innovation](https://projects.iq.harvard.edu/chinadatalab/event/summer-workshop-spatiotemporal-innovation-0) - Teaching Assistant, Harvard CGA, Summer 2024 -->
 
-    Three students received the Esri Innovation Program (EIP) Student of the Year Award and the Fisher Prize for Excellence in GIS at Harvard University. One student received the Harris Social Impact Fellowship at the University of Chicago.
+    One student received the Honorable Mention from the NSF Graduate Research Fellowship Program (2026); three students received the Esri Innovation Program Award and the Fisher Prize for Excellence in GIS (Harvard University, 2025); one student received the Harris Social Impact Fellowship (University of Chicago, 2025).
   
-   * Thesis advisor/reviewer/critic
+   * Thesis advisor & reviewer
   
       * Harvard College
+        
+   * Thesis critic
      
       * Harvard Graduate School of Design (GSD)
      
