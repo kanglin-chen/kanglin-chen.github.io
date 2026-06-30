@@ -45,7 +45,7 @@ More specifically I'm interested in:
 
 * 2024 - Multilevel Analysis, Ecological Adaptive Capacities, Heat and Flooding, Redlining Zones
 
-* 2024-2025 - [The Impact of Streetlight Placement on Trends and Disparities in Pedestrian‑Motor Vehicle Crashes](https://doi.org/10.1007/s11524-026-01098-8)
+* 2024-2025 - [The Impact of Streetlight Placement on Trends and Disparities in Pedestrian‑Motor Vehicle Crashes](https://link.springer.com/article/10.1007/s11524-026-01098-8?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20260630&utm_content=10.1007/s11524-026-01098-8)
   
 * 2020-2023 [Beyond the Early Disruption of COVID-19: Americans' Travel Adaptations and Their Associations With Social Vulnerability and the Built Environment](https://www.proquest.com/docview/2880653621?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) (Dissertation. Chair: [Ruth L. Steiner](https://dcp.ufl.edu/faculties/ruth-l-steiner/))
 
