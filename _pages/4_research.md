@@ -61,7 +61,7 @@ More specifically I'm interested in:
 * 2021-2023 [Immersive Virtual Reality versus 360 Panorama for People's Visual Evaluation of Geodesign Projects](https://mediaspace.esri.com/media/t/1_tx8ijpki)
 
 * 2020 [Enhancing Resilience of Port St. Joe, FL](https://dcp.ufl.edu/frc/building-a-resilient-urban-park-system-in-port-st-joe/)
-<br />Collaborated with city departments in PSJ, incorporating community engagement
+<br />Collaborated with the City of PSJ, incorporating community engagement
 
 * 2019 [Quantifying Landscape Performance of Depot Park, Gainesville, FL](https://www.landscapeperformance.org/case-study-briefs/depot-park-phases-1-2)
   
@@ -69,11 +69,11 @@ More specifically I'm interested in:
 
 * 2015-2018 [World Heritage Application to UNESCO: Cultural Landscape of Old Tea Forests of the Jingmai Mountain in Pu’er](https://whc.unesco.org/en/list/1665/)
 <br />Recognized by UNESCO as the world's first tea-related Cultural Landscape World Heritage Site;
-collaborated with Chinese central governments and multiple levels of local agencies; featured consistent community engagement in multi-ethnic areas
+collaborated with Chinese central governments and multiple local governments; featured consistent community engagement in multi-ethnic areas
 
 
 
-*Planning practice projects*:
+*Planning practice*:
 
 * 2021-2023 [Signal Four Analytics](https://www.geoplan.ufl.edu/portfolio/s4/) (traffic safety-focused)
 <br /> Used by FL transportation agencies and promoted by USDOT; obtained the [Best Practice in Traffic Records Award](https://www.atsip.org/trf/) at the Traffic Records Forum 2025
@@ -83,7 +83,7 @@ collaborated with Chinese central governments and multiple levels of local agenc
 <br /> Collaborated with Zhejiang provincial governments
 
 * 2016-2017 [Master Planning of Mount Heng (Hengshan) National Park in Shanxi, China](https://www.pkuplanning.com/html/pic/d/598.html) - 2016 Revision, 2001-2030
-<br /> Led by Chinese central governments and Shanxi provincial governments. The plan is in use.
+<br /> Led by Chinese central governments and Shanxi provincial governments
 
 * 2015 Historic Preservation and Urban Regeneration Planning of Dingxing Old City in Hebei, China
 
