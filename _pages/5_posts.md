@@ -1,5 +1,5 @@
 ---
 layout: post-page
-title: Publications & Online Projects
+title: Publications & Practice
 permalink: /posts/
 ---
