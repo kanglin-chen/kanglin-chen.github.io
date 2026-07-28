@@ -25,7 +25,7 @@ More specifically I'm interested in:
 
 * 2025-2026 - Global Land-Population Typologies
 
-* 2025-2026 - Spatial Approaches to Risk Perception and Coping with Extremes
+* 2025-2026 - Spatial Approaches to Risk Perception
   
 * 2025-2026 - Streetscape Visual Perception, Digital Twin, Bayesian
 
