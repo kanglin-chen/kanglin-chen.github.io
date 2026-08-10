@@ -25,11 +25,11 @@ More specifically I'm interested in:
 
 * 2025-2026 - Global Land-Population Typologies
 
-* 2025-2026 - Spatial Approaches to Risk Perception
+* 2025-2026 - Spatial Risk Perception
   
 * 2025-2026 - Streetscape Visual Perception, Digital Twin, Bayesian
 
-* 2025-2026 - UNESCO World Heritage Impacts, LLM
+* 2025-2026 - Pre/Post UNESCO World Heritage Inscriptions, LLM
 
 * 2025-2026 - [Environmental and Social Drivers of Hidradenitis Suppurativa](https://jamanetwork.com/journals/jamadermatology/article-abstract/2848390)
 
@@ -41,7 +41,7 @@ More specifically I'm interested in:
 
 * 2024-2025 - [A Multi-Scenario Suitability Framework for Relocation Planning: The Case of Post-Wildfire Maui](https://www.sciencedirect.com/science/article/abs/pii/S2210670726001320)
 
-* 2024-2025 - [U.S. Homeownership, 1970–2020: Doubled Housing and Households with Stalled and Spatially Dispersed Ownership](https://doi.org/10.1016/j.cities.2026.107455)
+* 2024-2025 - [Geographies and Changes in Homeownership in the United States, 1970–2020](https://doi.org/10.1016/j.cities.2026.107455)
 
 * 2024 - Multilevel Analysis, Ecological Adaptive Capacities, Heat and Flooding, Redlining Zones
 
