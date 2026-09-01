@@ -26,7 +26,7 @@ image:
 
     <!-- * [The Summer Training Workshop on Spatiotemporal Innovation](https://projects.iq.harvard.edu/chinadatalab/event/summer-workshop-spatiotemporal-innovation-0) - Teaching Assistant, Harvard CGA, Summer 2024 -->
 
-    One student received the Honorable Mention from the NSF Graduate Research Fellowship Program (2026); three students received the Esri Innovation Program Award and the Fisher Prize for Excellence in GIS (Harvard University, 2025); one student received the Harris Social Impact Fellowship (University of Chicago, 2025).
+Students received an NSF Graduate Research Fellowship Program Honorable Mention (2026),  Esri Innovation Program Award, Harvard University Fisher Prize for Excellence in GIS, University of Chicago Harris Social Impact Fellowship (2025)
   
    * Thesis advisor & reviewer
   
@@ -36,9 +36,7 @@ image:
      
       * Harvard Graduate School of Design (GSD)
      
-   * Guest Lectures
-     
-      * Hazard features, impacts, and mapping - Harvard Extension School, Fall 2024; Fall 2025
+      <!--  * Hazard features, impacts, and mapping - Harvard Extension School, Fall 2024; Fall 2025
       
       * Workflow-based spatial analysis in advanced GIS education - Harvard Center for Geographic Analysis, Winter 2024
         
@@ -46,7 +44,7 @@ image:
         
       * Hazard mapping and public health - Harvard T.H. Chan School of Public Health, Spring 2024
         
-      * 3D geospatial techniques and the trends of visualization - Harvard GSD, Fall 2023
+      * 3D geospatial techniques and the trends of visualization - Harvard GSD, Fall 2023 -->
         
 * *University of Florida, 2018 -- 2023*
   
@@ -60,17 +58,22 @@ image:
 
     * Advanced Landscape Architecture Studio - Under Supervised Teaching, Landscape Architecture Department, Fall 2019
  
-    * Guest Lectures
+    <!--  * Guest Lectures
       
       * Data description and visualization using R - Urban and Regional Planning Department, Fall 2020
         
       * Analyzing TripAdvisor reviews of urban parks - Landscape Architecture Department, Spring 2020
         
-      * Landscape Performance quantification: methods and metrics - Landscape Architecture Department, Fall 2019
+      * Landscape Performance quantification: methods and metrics - Landscape Architecture Department, Fall 2019 -->
 
 * *Peking University, 2016*
 
-     * National Park Planning and World Heritage Management - Teaching Assistant, College of Urban and Environmental Sciences, Spring 2016
+    * National Park Planning and World Heritage Management - Teaching Assistant, College of Urban and Environmental Sciences, Spring 2016
+ 
+     
+* *Guest Lectures*
+
+  * Harvard GSD; Harvard T.H. Chan School of Public Health; Harvard CGA; Harvard Extension School; UF Dept of Urban and Regional Planning; UF Dept of Landscape Architecture
 
 <!-- 
 # Heading 1
