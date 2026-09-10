@@ -19,7 +19,7 @@ My research methods integrate spatial and statistical analysis, computational mo
 Beyond research, I have worked in planning practice and tool development in the environmental and transportation fields, collaborating with government agencies in both the U.S. and China.
 <br />
 
-
+Email: conniechenchenchen@gmail.com
 <br />
 {% include image.html url="/assets/img/seaside.jpg" description="Maui June 2024" %}
 
