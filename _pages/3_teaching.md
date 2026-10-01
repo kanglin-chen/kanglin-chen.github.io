@@ -64,13 +64,13 @@ Students received an NSF Graduate Research Fellowship Program Honorable Mention 
         
       * Analyzing TripAdvisor reviews of urban parks - Landscape Architecture Department, Spring 2020
         
-      * Landscape Performance quantification: methods and metrics - Landscape Architecture Department, Fall 2019-->
+      * Landscape Performance quantification: methods and metrics - Landscape Architecture Department, Fall 2019
 
 * *Peking University, 2016*
 
     * National Park Planning and World Heritage Management - Teaching Assistant, College of Urban and Environmental Sciences, Spring 2016
  
-     
+ 
 * *Guest Lectures*
 
   * Harvard GSD; Harvard T.H. Chan School of Public Health; Harvard CGA; Harvard Extension School; UF Dept of Urban and Regional Planning; UF Dept of Landscape Architecture
