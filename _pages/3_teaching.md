@@ -30,23 +30,23 @@ Students received an NSF Graduate Research Fellowship Program Honorable Mention 
   
    * Thesis advisor & reviewer
   
-      * Harvard College
+     * Harvard College
         
    * Thesis critic
      
-      * Harvard Graduate School of Design (GSD)
+     * Harvard Graduate School of Design (GSD)
      
-   <!-- 
-   * Hazard features, impacts, and mapping - Harvard Extension School, Fall 2024; Fall 2025
+   * Guest lecture
+  
+      * Hazard features, impacts, and mapping - Harvard Extension School, Fall 2024; Fall 2025
       
-   * Workflow-based spatial analysis in advanced GIS education - Harvard Center for Geographic Analysis, Winter 2024
+      * Workflow-based spatial analysis in advanced GIS education - Harvard Center for Geographic Analysis, Winter 2024
         
-   * Street design, 3D visualization, VR, and GIS Animation - Harvard GSD, Spring 2024
+      * Street design, 3D visualization, VR, and GIS Animation - Harvard GSD, Spring 2024
         
-   * Hazard mapping and public health - Harvard T.H. Chan School of Public Health, Spring 2024
+      * Hazard mapping and public health - Harvard T.H. Chan School of Public Health, Spring 2024
         
-   * 3D geospatial techniques and the trends of visualization - Harvard GSD, Fall 2023
-   -->
+      * 3D geospatial techniques and the trends of visualization - Harvard GSD, Fall 2023
         
 * *University of Florida, 2018 -- 2023*
   
@@ -59,26 +59,19 @@ Students received an NSF Graduate Research Fellowship Program Honorable Mention 
     * Planning and Design I - Under Supervised Teaching, Urban and Regional Planning Department, Fall 2021
 
     * Advanced Landscape Architecture Studio - Under Supervised Teaching, Landscape Architecture Department, Fall 2019
- 
-   <!--
-  * Guest Lectures
+    
+* Guest Lectures
       
-  * Data description and visualization using R - Urban and Regional Planning Department, Fall 2020
+   * Data description and visualization using R - Urban and Regional Planning Department, Fall 2020
+   
+   * Analyzing TripAdvisor reviews of urban parks - Landscape Architecture Department, Spring 2020
         
-  * Analyzing TripAdvisor reviews of urban parks - Landscape Architecture Department, Spring 2020
-        
-  * Landscape Performance quantification: methods and metrics - Landscape Architecture Department, Fall 2019
-  -->
+   * Landscape Performance quantification: methods and metrics - Landscape Architecture Department, Fall 2019
 
 * *Peking University, 2016*
 
     * National Park Planning and World Heritage Management - Teaching Assistant, College of Urban and Environmental Sciences, Spring 2016
  
- 
-* *Guest Lectures*
-
-  * Harvard GSD; Harvard T.H. Chan School of Public Health; Harvard CGA; Harvard Extension School; UF Dept of Urban and Regional Planning; UF Dept of Landscape Architecture
-
 <!-- 
 # Heading 1
 ## Heading 2
